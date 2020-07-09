@@ -1,0 +1,1825 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>a section of the journal
+Frontiers in Ecology and Evolution
+Received: 26 November 2018
+Accepted: 28 January 2019
+Published: 15 February 2019
+Citation:
+Lyon NJ</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3389/fevo.2019.00033</article-id>
+      <title-group>
+        <article-title>Evaluating the Utility of Species Distribution Models in Informing Climate Change-Resilient Grassland Restoration Strategy</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Nicholas J. Lyon</string-name>
+          <email>njlyon@iastate.edu</email>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Diane M. Debinski</string-name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+          <xref ref-type="aff" rid="aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Imtiaz Rangwala</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff3">3</xref>
+          <xref ref-type="aff" rid="aff4">4</xref>
+          <xref ref-type="aff" rid="aff5">5</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cooperative Institute for Research in Environmental Sciences, University of Colorado</institution>
+          ,
+          <addr-line>Boulder, CO</addr-line>
+          ,
+          <country country="US">United States</country>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Department of Ecology</institution>
+          ,
+          <addr-line>Evolution</addr-line>
+          ,
+          <institution>and Organismal Biology, Iowa State University</institution>
+          ,
+          <addr-line>Ames, IA</addr-line>
+          ,
+          <country country="US">United States</country>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>Department of Ecology, Montana State University</institution>
+          ,
+          <addr-line>Bozeman, MT</addr-line>
+          ,
+          <country country="US">United States</country>
+        </aff>
+        <aff id="aff3">
+          <label>3</label>
+          <institution>Department of Interior North Central Climate Science Center</institution>
+          ,
+          <addr-line>Fort Collins, CO</addr-line>
+          ,
+          <country country="US">United States</country>
+        </aff>
+        <aff id="aff4">
+          <label>4</label>
+          <institution>Edited by: Anouschka R. Hof, Wageningen University &amp; Research, Netherlands Reviewed by: Bernd Panassiti, Laimburg Research Centre, Italy Jaime A. Collazo, North Carolina State University</institution>
+          ,
+          <country>United States Nicholas J. Lyon</country>
+        </aff>
+        <aff id="aff5">
+          <label>5</label>
+          <institution>Physical Sciences Division, Earth System Research Laboratory (NOAA)</institution>
+          ,
+          <addr-line>Boulder, CO</addr-line>
+          ,
+          <country country="US">United States</country>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2019</year>
+      </pub-date>
+      <volume>7</volume>
+      <abstract>
+        <p>Tallgrass prairie ecosystems in North America are heavily degraded and require effective restoration strategies if prairie specialist taxa are to be preserved. One common management tool used to restore grassland is the application of a seed-mix of native prairie plant species. While this technique is effective in the short-term, it is critical that species' resilience to changing climate be evaluated when designing these mixes. By utilizing species distribution models (SDMs), species' bioclimatic envelopes-and thus the geographic area suitable for them-can be quantified and predicted under various future climate regimes, and current seed-mixes may be modified to include more climate resilient species or exclude more affected species. We evaluated climate response on plant functional groups to examine the generalizability of climate response among species of particular functional groups. We selected 14 prairie species representing the functional groups of cool-season and warm-season grasses, forbs, and legumes and we modeled their responses under both a moderate and more extreme predicted future. Our functional group “composite maps” show that warm-season grasses, forbs, and legumes responded similarly to other species within their functional group, while cool-season grasses showed less inter-species concordance. The value of functional group as a rough method for evaluating climate-resilience is therefore supported, but candidate cool-season grass species will require more individualized attention. This result suggests that seed-mix designers may be able to use species with more occurrence records to generate functional group-level predictions to assess the climate response of species for which there are prohibitively few occurrence records for modeling.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>seed-mixtures</kwd>
+        <kwd>functional group</kwd>
+        <kwd>climate change</kwd>
+        <kwd>species distribution (niche) model</kwd>
+        <kwd>bioclimatic envelope</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <fig>
+      <graphic xlink:href="/home/senpai/Documents/Work/summization/Professors/Diane-Debinski/fevo-07-00033(1).images/img_4_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="/home/senpai/Documents/Work/summization/Professors/Diane-Debinski/fevo-07-00033(1).images/img_5_1.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="/home/senpai/Documents/Work/summization/Professors/Diane-Debinski/fevo-07-00033(1).images/img_5_2.png" />
+    </fig>
+    <fig>
+      <graphic xlink:href="/home/senpai/Documents/Work/summization/Professors/Diane-Debinski/fevo-07-00033(1).images/img_6_1.png" />
+    </fig>
+    <sec id="sec-1">
+      <title>INTRODUCTION</title>
+      <p>
+        Prairies in the United States are among the most degraded
+habitats in the world
+        <xref ref-type="bibr" rid="ref15">(Larson et al., 2011)</xref>
+        , and as such,
+have necessitated active restoration, particularly for the plant
+communities historically found in these systems
+        <xref ref-type="bibr" rid="ref20 ref26 ref6 ref7">(Vogel et al.,
+2007; Debinski et al., 2011; Pillsbury et al., 2011; Delaney et al.,
+2015)</xref>
+        . The addition of native plant seeds via seed-mixes is one
+restoration tool used to speed the re-colonization of degraded
+prairies by native prairie plant species
+        <xref ref-type="bibr" rid="ref15 ref23 ref8">(Dickson and Busby, 2009;
+Larson et al., 2011)</xref>
+        . However, the composition of seed-mixes can
+be limited by seed availability, cost of seeds from rare plants,
+or even a focus on particular seed ecotypes, thus restricting the
+possible combinations of species in a seed-mix used for a given
+area. The number of different species and relative abundance
+of seeds included in a given seed-mix must then be considered
+from ecological, economic, and logistical perspectives, and the
+success of the end-product is often judged years after the
+seedmix is first implemented
+        <xref ref-type="bibr" rid="ref23 ref8">(Dickson and Busby, 2009)</xref>
+        . Given the
+need for viable restoration strategies in prairies, it is imperative
+that restoration efforts be successful in longer timeframes than is
+usually feasible for empirical monitoring. Modeling approaches
+can serve as a valuable tool in this regard, especially when the
+input data are easily collected or publicly available.
+      </p>
+      <p>
+        In particular, species distribution models (SDMs) can be used
+relatively easily
+        <xref ref-type="bibr" rid="ref14">(Kane et al., 2017)</xref>
+        to assess how the effectiveness
+of species in a restoration seed-mix will change under different
+future climate predictions, and seed-mix composition can then
+be modified in the present without the need to wait years for
+experimental results. SDMs are used to predict the environmental
+suitability of a continent or landscape for individual species
+both in present conditions and under a variety of future climate
+change scenarios
+        <xref ref-type="bibr" rid="ref10 ref23 ref8">(Soberón and Nakamura, 2009; Elith et al.,
+2011)</xref>
+        . These models correlate current occurrence records of a
+species with the temperature and precipitation in that area to
+generate a prediction of the bioclimatic envelope for individual
+species, which can then be projected across a current or future
+landscape
+        <xref ref-type="bibr" rid="ref1 ref10 ref17 ref23 ref8">(Pearson and Dawson, 2003; Araújo and Guisan,
+2006; Soberón and Nakamura, 2009; Elith et al., 2011)</xref>
+        . Climate
+data alone are sufficient predictors at macro-ecological scales
+        <xref ref-type="bibr" rid="ref17">(Pearson and Dawson, 2003)</xref>
+        , which increases the potential
+utility of these models to managers and researchers working
+with limited resources. These models are generally considered
+to generate robust predictions even in the absence of data on
+biotic factors, land-use, and soil type
+        <xref ref-type="bibr" rid="ref18 ref25">(Thuiller et al., 2004;
+Pearson et al., 2007)</xref>
+        , making them especially useful for species
+for which publicly available data are sparse or for projects where
+it is not feasible to collect occurrence records prior to model
+construction. By employing SDMs on prairie plant species used
+in a seed-mix currently in use in southern Iowa, the impact
+of possible climatic futures can be quantified and the utility of
+SDMs in recommending changes to seed-mix composition may
+be assessed. In addition, including multiple species from each
+of several functional groups (e.g., cool-season grasses,
+warmseason grasses, forbs, and legumes) can allow the conservation of
+response within functional group to be examined. This functional
+group-level response is especially relevant given the potential for
+functional group predictions to be used as a proxy for species
+without prerequisite data for their own models.
+      </p>
+      <p>We hypothesized that (1) plant functional groups will show
+relatively conserved responses to changing climate and (2) most
+modeled species will show increasing suitability in the northern
+extent of their range and decreasing suitability in the southern
+edges of their range regardless of how conserved the response is
+within functional group.</p>
+    </sec>
+    <sec id="sec-2">
+      <title>MATERIALS AND METHODS</title>
+    </sec>
+    <sec id="sec-3">
+      <title>Species Selection</title>
+      <p>
+        To best assess the relevance of this modeling approach to
+managers, we retrieved publicly available occurrence records for
+all 26 tallgrass prairie plant species in a seed-mix currently used in
+the American Midwest. Of this initial pool, only 14 species were
+selected for modeling based on sufficient occurrence records.
+These species represent four functional groups: cool-season (C3)
+grasses, warm-season (C4) grasses, forbs (here defined as
+nonleguminous flowering plants), and legumes (Table 1). While
+this functional group approach leaves three of the functional
+groups presented here with relatively few included species, the
+limited number of species with enough occurrence records to
+model is likely to be a constraint encountered by managers
+using this approach, so modeling proceeded despite the reduced
+representation in some groups. Species occurrence records across
+North America were obtained from the Global Biodiversity
+Information Facility, the University of California Berkeley’s Eco
+Engine, and the BISON database from United States Geological
+Survey via their packages in the R statistical environment—
+version 3.3.1—, “rgbif,” “ecoengine,” and “rbison” respectively
+        <xref ref-type="bibr" rid="ref21 ref3 ref3 ref4 ref4">(Chamberlain, 2016; Chamberlain et al., 2016; Ram, 2016)</xref>
+        . Only
+data that met Darwin Core standards
+        <xref ref-type="bibr" rid="ref28">(Wieczorek et al., 2012)</xref>
+        were used. Records from outside of the tallgrass prairie region
+were included to ensure that the full range of environmental
+conditions each species has been observed to exist in was
+represented in our models.
+      </p>
+    </sec>
+    <sec id="sec-4">
+      <title>Predictor Selection</title>
+      <p>
+        All data for the climate-predictor variables were obtained
+from the WorldClim Global Climate Dataset—version 1.4—at
+a 2.5 min resolution (an area of ∼5 km2 at the equator) using
+the same latitude and longitude bounds as those used for species
+occurrence data. This broad scale (both in terms of pixel size and
+spatial extent of model) was selected to prevent inappropriately
+fine interpretation of model outputs, as this has been indicated as
+an area of concern in projects utilizing presence-only modeling
+        <xref ref-type="bibr" rid="ref29">(Yackulic et al., 2013)</xref>
+        . WorldClim uses data from a large number
+of surface meteorological stations and applies an interpolation
+algorithm to generate spatially gridded data
+        <xref ref-type="bibr" rid="ref13">(Hijmans et al.,
+2005)</xref>
+        . Initially, all models are informed by eight bioclimatic
+(BIOCLIM) variables: mean temperature for the wettest (BIO8),
+driest (BIO9), warmest (BIO10), and coldest (BIO11) quarters
+averaged from 1960 to 1990 as well as the mean precipitation
+for the same quarters (BIO16 through 19 respectively). These
+variables were selected because they are the finest temporal
+BIOCLIM variables and are thus most likely to represent
+the intra-annual climatic variation species must tolerate. Only
+BIOCLIM variables with a Pearson correlation coefficient of &lt;0.7
+with the other BIOCLIM variables at occurrence locations were
+included in training each model; this value was reduced from
+the 0.75 threshold used by
+        <xref ref-type="bibr" rid="ref14">Kane et al. (2017)</xref>
+        due to the use of
+a greater number of predictor variables. Correlation was assessed
+on a per-species basis
+        <xref ref-type="bibr" rid="ref10 ref17 ref9">(Pearson and Dawson, 2003; Elith et al.,
+2010)</xref>
+        . The predictor variables used for each species are found
+in Table S1.
+      </p>
+      <p>
+        SDMs for the mid-Twenty first century (2041–2060) were
+built with the projected climate from the National Center for
+Atmospheric Research (United States) CCSM4 global climate
+model (GCM) in two Representative Concentration Pathway
+(RCP) emissions scenarios (RCP 4.5 and 8.5). The CCSM4 GCM
+predicts an average increase of 2.5◦C across North America for
+RCP 4.5 and a 4.4◦C average increase for RCP 8.5, and neither
+predicted future shows an average change of more than 1 cm
+in rainfall. Hereafter RCP 4.5 is referred to as the “moderate”
+future and RCP 8.5 as “extreme” future. The CCSM4 GCM
+is thus an ideal candidate for suitability response comparisons
+between possible future conditions because of the effective
+standardization of most variables other than temperature. This
+GCM also shows relatively low error frequency when compared
+to the observed climate for parts of North America
+        <xref ref-type="bibr" rid="ref22">(Rupp
+et al., 2013)</xref>
+        . Additionally, by using only RCPs from the same
+GCM, we control for any differences in model convention in the
+construction of these climate datasets, and therefore eliminate
+suitability prediction differences that are mere artifacts of
+GCM construction.
+      </p>
+    </sec>
+    <sec id="sec-5">
+      <title>Modeling Methods</title>
+      <p>
+        Current and future SDMs for each of the selected species
+were created with the modeling software MaxEnt version 3.3.3k
+        <xref ref-type="bibr" rid="ref10">(Elith et al., 2011)</xref>
+        through its interface with the R statistical
+environment. Occurrence records were thinned in multivariate
+environmental space to account for potential oversampling of
+environmental conditions following from geographic sampling
+bias
+        <xref ref-type="bibr" rid="ref5">(de Oliveira et al., 2014)</xref>
+        via principal components analysis
+(PCA) of the predictor variables associated with each occurrence
+record. The points were plotted against PC1 and PC2 and
+one record was randomly selected wherever multiple records
+overlapped. All models constructed had 40 or more occurrence
+records after environmental thinning (Table S1), to stay well
+above the recommended 25 minimum number of occurrence
+records
+        <xref ref-type="bibr" rid="ref18">(Pearson et al., 2007)</xref>
+        .
+      </p>
+      <p>
+        For each species, corrected Akaike Information Criterion
+(AICc) values were compared between models with MaxEnt’s
+regularization parameter (β) set at 0.5, 1, 2, 3, 4, or 5, and
+the model with the lowest AICc was selected
+        <xref ref-type="bibr" rid="ref27">(Warren and
+Seifert, 2011)</xref>
+        . After each species’ current distribution model was
+generated, projections into each predicted future were conducted
+for each species. In order to limit extrapolation, all models
+constructed used the default “clamping” option within MaxEnt
+such that climate values outside of those used to train the
+model are treated as if they were the end of the training range
+        <xref ref-type="bibr" rid="ref10">(Elith et al., 2011)</xref>
+        . All suitability predictions are made in the
+logistic output format such that predictions range from 1 (100%
+probability of presence) to 0 (0% probability of presence) on a
+continuous scale
+        <xref ref-type="bibr" rid="ref19 ref8">(Phillips and Dudík, 2008)</xref>
+        .
+      </p>
+      <p>
+        All models were evaluated by the area under the
+receiveroperator characteristic curve (AUC)
+        <xref ref-type="bibr" rid="ref14 ref16">(Merow et al., 2013; Kane
+et al., 2017)</xref>
+        . Cross-validation by resampling k-folds (k = 5)
+was performed to obtain a more discriminant AUC value, and
+for all models mean AUC was &gt;0.82, indicating robust model
+performance for all species distribution models (Table S1). While
+AUC has been criticized as a method of model evaluation
+        <xref ref-type="bibr" rid="ref11">(Fourcade et al., 2018)</xref>
+        , our use of relatively few BIOCLIM
+variables (average of five predictor variables across all 14
+species), coupled with our restriction of interpretation to climatic
+suitability rather than realized distribution both minimizes
+inflation of AUC and allows for relaxed predictor selection at
+the outset.
+      </p>
+      <p>Due to our interest in the similarity of response of
+species within the same functional group rather than the
+response of particular species—and the high number of
+species-specific output models generated as a result of this
+process (42 total)—only composite maps are presented here to
+facilitate evaluation of functional group response. Composite
+maps demonstrate the number of modeled species that
+performed at or better than a given threshold of suitability.
+Composite maps presented here use 50% as that threshold
+such that each map demonstrates high suitability explicitly
+while allowing for equal interpretation of low suitability (e.g.,
+if two species are doing well in a given area that means
+that the remainder of the species are not above the suitability
+threshold). A limitation of this approach is the loss of much
+of the gradient of suitability response but given the dramatic
+increase in interpretability to non-specialist audiences and likely
+relevance of such interpretability to managers, we continued in
+this vein.</p>
+    </sec>
+    <sec id="sec-6">
+      <title>RESULTS</title>
+    </sec>
+    <sec id="sec-7">
+      <title>Cool-Season Grasses</title>
+      <p>Cool-season grasses did not exhibit a conserved response to
+either predicted future (Figure 1). All three cool-season grass
+species were predicted to have &gt;50% suitability in only small and
+isolated areas outside of the American Midwest. However, in the
+RCP 8.5 predicted future, bioclimatic suitability for two of the
+three species was above the threshold throughout much of Iowa,
+Nebraska, and Kansas. There were areas in the Southeast and
+Northern Midwest for which all three species had low predicted
+suitability, so this offers partial support for this functional
+group sharing certain conditions that are unsuitable while the
+specific tolerances to less negative conditions vary by species.
+Interestingly, agreement between species of this group increased
+from present conditions to moderate future and increased further
+from the moderate to extreme future.</p>
+    </sec>
+    <sec id="sec-8">
+      <title>Warm-Season Grasses</title>
+      <p>In contrast to the apparent lack of consensus in cool-season grass
+response, warm-season grasses tended to respond similarly in
+both future conditions (Figure 2). Not only did all three species
+show &gt;50% future suitability throughout the vast majority of the
+American Midwest, for much of the Eastern half of the nation,
+two species remained above that threshold. Additionally, all three
+species showed below 50% suitability in the American southeast,
+and this area of low suitability remained consistent between the
+two RCPs. The area of overlapping suitability nearly doubled
+in size from present conditions to the moderate future though
+remained largely static between the two future predictions.</p>
+    </sec>
+    <sec id="sec-9">
+      <title>Forbs</title>
+      <p>More forb species were modeled than any other functional group
+in this project, making the observed conservation of response
+among those species even more striking. Not only does the
+area of above 50% suitability overlap for nearly all modeled
+species; most species are also below the threshold when any
+one is (Figure 3). Areas of suitable conditions are largely in the
+American Northeast and most of that area is projected to be
+suitable for at least five of the six modeled forb species. While in
+RCP 4.5 very little of the American Midwest is suitable for even
+one species, in RCP 8.5 this area is projected to be suitable for at
+least one species (and in many areas as many as three).</p>
+    </sec>
+    <sec id="sec-10">
+      <title>Legumes</title>
+      <p>While only two legume species had sufficient occurrence records
+for modeling, and our inferential abilities are therefore limited,
+the areas of consensus are of note. The American Midwest is
+projected to be suitable for both legume species in both futures
+(Figure 4), though the specific area is somewhat north of the
+suitable area for warm-season grasses and west of forb areas.
+As with warm-season grasses, the area in present conditions
+predicted to be suitable for all modeled legumes virtually only
+expands from present to either future condition, indicating that
+some groups may be sufficiently climate-resilient that they can be
+maintained in current areas while also introduced into previously
+inhospitable areas.</p>
+    </sec>
+    <sec id="sec-11">
+      <title>DISCUSSION</title>
+      <p>While we hypothesized that species within each functional
+group would have conserved responses to changing climate, this
+appears to only be partially true; while forb response was highly
+conserved, warm-season grass and legume response were less
+so and there were very fewer areas of consensus among
+coolseason grasses. This indicates that while functional group may
+be a good predictor for climate response for some functional
+groups, there are some limitations. The relatively few species
+per functional group is particularly limiting to our assessment
+of the value of functional group as a predictor of species’
+response, though is likely to be equally limiting to managers
+using SDMs to inform restoration strategy. Additionally, though
+we hypothesized that all species would likely shift northwards
+(i.e., suitability would decline in the southern-most areas and
+increase in the northern-most areas) only forbs exhibited this
+response. Given these findings, it is clear that functional group
+is not an equally good predictor of response to climate change
+across the four functional groups used here. Further exploration
+of functional group response to climate change—particularly
+with a greater number of modeled species per group—will lend
+valuable insight into the climate-resiliency of different groups.
+An alternative avenue to merely increasing the number of species
+per group would be to use the physiological tolerances of each
+species to define more ecologically relevant groups for modeling.
+Such an approach would be extremely valuable to improving
+the relevance of SDMs and would also dramatically increase the
+precision of management recommendations from such models.</p>
+      <p>For Midwestern restorations using seed-mixes, warm-season
+grasses and legumes can be expected to have some resilience
+to changing climate because these groups show high suitability
+in the Midwest in both future conditions (Figures 2, 3). This
+response makes them better candidates for inclusion in
+seedmixes than many cool-season grass or forb species. However,
+it should be noted that both of those less-resilient functional
+groups do have members for whom the Midwest remains
+suitable (Figures 1, 4), so some species-specific modeling may be
+valuable. Also, for restorations being conducted in the southern
+or eastern Midwest, even under the most severe predicted future
+all functional groups (and virtually all modeled species) have
+predicted suitability above 50%, indicating that responses to
+climatic change may be less extensive in those areas, at least in
+the near-term.</p>
+      <p>The variability in suitability response between the two grass
+functional groups may be explained by the current prevalence of
+warm-season grasses in areas of hotter conditions. Moderately
+increasing surface temperatures appear to remain within the
+tolerance of warm-season grasses—at least initially—in a way
+that is less expected for cool-season grasses. This would also
+help explain the northward expansion of warm-season suitability
+insofar as unsuitable (i.e., cold) conditions in the northern
+United States would become more suitable (i.e., warmer) in the
+future. One caveat particularly relevant to the discussion of the
+two grass functional groups’ responses is that the terms
+“warmseason” and “cool-season,” while useful, should not be taken to be
+absolute predictors of thermal tolerance. As brought up earlier,
+quantification of true physiological responses of these species
+will invariably lead to increased quality of result and should be
+pursued in future studies.</p>
+      <p>
+        A factor that is left unconsidered here but is likely to
+affect distributions and suitability for these functional groups
+in particular is the impact of changing atmospheric CO2 levels
+on the different photosynthetic modes of cool and
+warmseason grasses (C3 and C4 photosynthesis respectively). C4
+photosynthesis allows for more carbon concentration, and hence
+more chemically efficient photosynthesis reactions in low CO2
+environments, than does C3 photosynthesis
+        <xref ref-type="bibr" rid="ref24">(Taiz et al., 2014)</xref>
+        .
+This physiological difference is likely to affect the response
+of grasses to anthropogenic climate change
+        <xref ref-type="bibr" rid="ref12">(Griffith et al.,
+2017)</xref>
+        , and could exacerbate the projected responses of these
+functional groups. However, it is improbable that a functional
+group or species predicted to experience extremely low suitability
+in a given area because of some combination of temperature
+and rainfall will be able to surmount these constraints if the
+concentration of atmospheric CO2 becomes more advantageous
+for its photosynthetic mode.
+      </p>
+      <p>In contrast to the grass species, and despite the larger
+number of forb species included, suitability changes were highly
+consistent across species (Figure 3). This was also the case for
+both warm-season grass and legume response, but the consensus
+among forb species is particularly noteworthy because it is
+conserved in a novel area and included many more species
+than other functional groups. It is also valuable to consider that
+the number of species for which suitability is predicted to be
+above 50% increases in the Midwest from present conditions
+to moderate future and even further from moderate to extreme
+future, though never to the extent of agreement found in
+the Northeast.</p>
+      <p>Given that only two legume species included in the
+seedmix drawn from here had numerous enough occurrence records
+for model construction, generalizations about this functional
+group are especially limited. That being said, areas suitable
+for one species tended to be suitable for both across the
+majority of the modeled landscape, and the same was true
+for unsuitable conditions (Figure 4). The legume functional
+group also exhibited very little change between the two future
+conditions, which may be indicative of at least some resilience of
+this functional group to changing climate. This seems particularly
+the case when considering that the suitable area only increases
+from present to either futures’ predicted conditions.</p>
+      <p>The results presented here demonstrate that warm-season
+grasses, forbs, and legumes may be expected to show some
+consistency in responding to a warming world. Therefore, when
+species from within these functional groups are being evaluated
+for inclusion in seed-mixes, modeling of other members of
+the functional group—either individually or collectively as
+shown here—may provide valuable insights. Desired cool-season
+grasses may require more of a single-species approach because
+generalization across the functional group does not appear to
+be supported. Additionally, our results indicate that the general
+assumption of northern range shifts in response to climate
+change may not always be robust for these plant species. It is
+important however to reiterate that given the constraints of the
+limited number of species in each functional group, the strength
+of our inferences is correspondingly reduced. In assessing the
+potential utility of these models to informing restoration plans,
+choosing species for modeling from only those in use in a
+particular seed-mix is likely to dramatically reduce the scope
+of conclusions that can be drawn. For restoration planners
+interested in using this type of modeling approach, it will likely
+be more effective to either model species of interest individually
+or choose functional groups of interest and then model many
+species within those groups (regardless of whether or not those
+species are typically in a seed-mix).</p>
+      <p>
+        In interpreting these results, it is also important to note
+that our models make no attempt to include soil, current
+landuse, biotic interactions, or other known biologically relevant
+factors in informing the predictions of current and future
+habitat suitability. In some cases, scientists and managers may
+be interested in predicting climate-change induced distribution
+changes at a finer spatial scale or including these variables. A
+microhabitat model is more appropriate for delving into this type
+of question than is a MaxEnt-style SDM
+        <xref ref-type="bibr" rid="ref1 ref2">(Araújo and Guisan,
+2006; Araújo and Luoto, 2007)</xref>
+        . Likewise, a more mechanistically
+specific model will be better able to clarify how photosynthetic
+mode (e.g. C3 vs. C4) may buffer against or increase susceptibility
+to changing climate
+        <xref ref-type="bibr" rid="ref12">(Griffith et al., 2017)</xref>
+        . A more specific model
+is also likely to be able to evaluate the relative importance of each
+of these factors and potentially account for changes to the
+speciesenvironment relationship that MaxEnt assumes to be constant.
+Nonetheless, the results presented here can serve to indicate
+areas where microhabitat models may be most profitably applied.
+Future models specific to the American southeast, Northern
+Great Plains, and upper Midwest could assist in understanding
+the potential microhabitat-scale impacts of climate change for
+these important prairie species.
+      </p>
+      <p>The ability of SDMs to create continent-scale
+models from relatively few occurrence records, as
+demonstrated here, is remarkably useful as a complement
+to experimental restoration approaches and finer-scale
+modeling methods. By including both modeling and
+onthe-ground techniques, restoration projects will be better
+informed and will be more likely to restore and conserve
+the habitats and communities that will exist into the
+future, rather than solely replicating those communities
+that existed without consideration for the effects of a
+changing climate.</p>
+    </sec>
+    <sec id="sec-12">
+      <title>AUTHOR CONTRIBUTIONS</title>
+      <p>DD and NL designed the research. NL performed the modeling
+and wrote the manuscript. NL, DD, and IR edited the manuscript.</p>
+    </sec>
+    <sec id="sec-13">
+      <title>ACKNOWLEDGMENTS</title>
+      <p>We would like to thank Dr. Danielle Christianson and Dr.
+Adam Smith for their invaluable SDM workshop at the 2016
+North American Congress for Conservation Biology (NACCB),
+as well as Dr. Kristin Kane for her advice on MaxEnt modeling
+conventions. This work would not have been possible without
+the generous support of the Leopold Center for Sustainable
+Agriculture (XP2016-07A), the North Central Climate Science
+Center, and the Center for Global and Regional Environmental
+Research (CGRER).</p>
+    </sec>
+    <sec id="sec-14">
+      <title>SUPPLEMENTARY MATERIAL</title>
+      <p>The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.3389/fevo.
+2019.00033/full#supplementary-material
+Conflict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or financial relationships that could
+be construed as a potential conflict of interest.</p>
+      <p>Copyright © 2019 Lyon, Debinski and Rangwala. This is an open-access article
+distributed under the terms of the Creative Commons Attribution License (CC BY).
+The use, distribution or reproduction in other forums is permitted, provided the
+original author(s) and the copyright owner(s) are credited and that the original
+publication in this journal is cited, in accordance with accepted academic practice.
+No use, distribution or reproduction is permitted which does not comply with these
+terms.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Araújo</surname>
+            ,
+            <given-names>M. B.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Guisan</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>2006</year>
+          ).
+          <article-title>Five (or so) challenges for species distribution modelling</article-title>
+          .
+          <source>J. Biogeogr</source>
+          .
+          <volume>33</volume>
+          ,
+          <fpage>1677</fpage>
+          -
+          <lpage>1688</lpage>
+          . doi:
+          <volume>10</volume>
+          .1111/j.1365-
+          <fpage>2699</fpage>
+          .
+          <year>2006</year>
+          .
+          <volume>01584</volume>
+          .x
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Araújo</surname>
+            ,
+            <given-names>M. B.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Luoto</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>2007</year>
+          ).
+          <article-title>The importance of biotic interactions for modelling species distributions under climate change</article-title>
+          .
+          <source>Glob. Ecol. Biogeogr</source>
+          .
+          <volume>16</volume>
+          ,
+          <fpage>743</fpage>
+          -
+          <lpage>753</lpage>
+          . doi:
+          <volume>10</volume>
+          .1111/j.1466-
+          <fpage>8238</fpage>
+          .
+          <year>2007</year>
+          .
+          <volume>00359</volume>
+          .x
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Chamberlain</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          (
+          <year>2016</year>
+          ).
+          <article-title>rbison: Interface to the 'USGS' 'BISON' 'API'</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Chamberlain</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Barve</surname>
+            ,
+            <given-names>V.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Mcglinn</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>2016</year>
+          ).
+          <article-title>rgbif: Interface to the Global 'Biodiversity' Information Facility 'API'</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>de Oliveira</surname>
+          </string-name>
+          , G.,
+          <string-name>
+            <surname>Rangel</surname>
+            ,
+            <given-names>T. F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Lima-Ribeiro</surname>
+            ,
+            <given-names>M. S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Terribile</surname>
+            ,
+            <given-names>L. C.</given-names>
+          </string-name>
+          , and DinizFilho,
+          <string-name>
+            <surname>J. A. F.</surname>
+          </string-name>
+          (
+          <year>2014</year>
+          ).
+          <article-title>Evaluating, partitioning, and mapping the spatial autocorrelation component in ecological niche modeling: a new approach based on environmentally equidistant records</article-title>
+          .
+          <source>Ecography</source>
+          <volume>37</volume>
+          ,
+          <fpage>637</fpage>
+          -
+          <lpage>647</lpage>
+          . doi:
+          <volume>10</volume>
+          .1111/j.1600-
+          <fpage>0587</fpage>
+          .
+          <year>2013</year>
+          .
+          <volume>00564</volume>
+          .x
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Debinski</surname>
+            ,
+            <given-names>D. M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Moranz</surname>
+            ,
+            <given-names>R. A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Delaney</surname>
+            ,
+            <given-names>J. T.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Miller</surname>
+            ,
+            <given-names>J. R.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Engle</surname>
+            ,
+            <given-names>D. M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Winkler</surname>
+            ,
+            <given-names>L. B.</given-names>
+          </string-name>
+          , et al. (
+          <year>2011</year>
+          ).
+          <article-title>A cross-taxonomic comparison of insect responses to grassland management and land-use legacies</article-title>
+          .
+          <source>Ecosphere</source>
+          <volume>2</volume>
+          ,
+          <fpage>1</fpage>
+          -
+          <lpage>16</lpage>
+          . doi: 10.
+          <year>1890</year>
+          /ES11-00226.
+          <fpage>1</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Delaney</surname>
+            ,
+            <given-names>J. T.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Jokela</surname>
+            ,
+            <given-names>K. J.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Debinski</surname>
+            ,
+            <given-names>D. M.</given-names>
+          </string-name>
+          (
+          <year>2015</year>
+          ).
+          <article-title>Seasonal succession of pollinator floral resources in four types of grasslands</article-title>
+          .
+          <source>Ecosphere</source>
+          <volume>6</volume>
+          ,
+          <fpage>1</fpage>
+          -
+          <lpage>14</lpage>
+          . doi: 10.
+          <year>1890</year>
+          /ES15-00218.
+          <fpage>1</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Dickson</surname>
+            ,
+            <given-names>T. L.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Busby</surname>
+            ,
+            <given-names>W. H.</given-names>
+          </string-name>
+          (
+          <year>2009</year>
+          ).
+          <article-title>Forb Species establishment increases with decreased grass seeding density and with increased forb seeding density in a Northeast Kansas, U.S.A., experimental prairie restoration</article-title>
+          .
+          <source>Restor. Ecol</source>
+          .
+          <volume>17</volume>
+          ,
+          <fpage>597</fpage>
+          -
+          <lpage>605</lpage>
+          . doi:
+          <volume>10</volume>
+          .1111/j.
+          <fpage>1526</fpage>
+          -
+          <lpage>100X</lpage>
+          .
+          <year>2008</year>
+          .
+          <volume>00427</volume>
+          .x
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Elith</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kearney</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Phillips</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          (
+          <year>2010</year>
+          ).
+          <article-title>The art of modelling range-shifting species</article-title>
+          .
+          <source>Methods Ecol. Evol</source>
+          .
+          <volume>1</volume>
+          ,
+          <fpage>330</fpage>
+          -
+          <lpage>342</lpage>
+          . doi:
+          <volume>10</volume>
+          .1111/j.2041-
+          <fpage>210X</fpage>
+          .
+          <year>2010</year>
+          .
+          <volume>00036</volume>
+          .x
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Elith</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Phillips</surname>
+            ,
+            <given-names>S. J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hastie</surname>
+            ,
+            <given-names>T.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Dudík</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Chee</surname>
+            ,
+            <given-names>Y. E.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Yates</surname>
+            ,
+            <given-names>C. J.</given-names>
+          </string-name>
+          (
+          <year>2011</year>
+          ).
+          <article-title>A statistical explanation of MaxEnt for ecologists</article-title>
+          .
+          <source>Divers. Distrib</source>
+          .
+          <volume>17</volume>
+          ,
+          <fpage>43</fpage>
+          -
+          <lpage>57</lpage>
+          . doi:
+          <volume>10</volume>
+          .1111/j.1472-
+          <fpage>4642</fpage>
+          .
+          <year>2010</year>
+          .
+          <volume>00725</volume>
+          .x
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Fourcade</surname>
+            ,
+            <given-names>Y.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Besnard</surname>
+            ,
+            <given-names>A. G.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Secondi</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>2018</year>
+          ).
+          <article-title>Paintings predict the distribution of species, or the challenge of selecting environmental predictors and evaluation statistics</article-title>
+          .
+          <source>Glob. Ecol. Biogeogr</source>
+          .
+          <volume>27</volume>
+          ,
+          <fpage>245</fpage>
+          -
+          <lpage>256</lpage>
+          . doi:
+          <volume>10</volume>
+          .1111/geb.12684
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Griffith</surname>
+            ,
+            <given-names>D. M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Cotton</surname>
+            ,
+            <given-names>J. M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Powell</surname>
+            ,
+            <given-names>R. L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Sheldon</surname>
+            ,
+            <given-names>N. D.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Still</surname>
+            ,
+            <given-names>C. J.</given-names>
+          </string-name>
+          (
+          <year>2017</year>
+          ).
+          <article-title>Multi-century stasis in C3 and C4 grass distributions across the contiguous United States since the industrial revolution</article-title>
+          .
+          <source>J. Biogeogr</source>
+          .
+          <volume>44</volume>
+          ,
+          <fpage>2564</fpage>
+          -
+          <lpage>2574</lpage>
+          . doi:
+          <volume>10</volume>
+          .1111/jbi.13061
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Hijmans</surname>
+            ,
+            <given-names>R. J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Cameron</surname>
+            ,
+            <given-names>S. E.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Parra</surname>
+            ,
+            <given-names>J. L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Jones</surname>
+            ,
+            <given-names>P. G.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Jarvis</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>2005</year>
+          ).
+          <article-title>Very high resolution interpolated climate surfaces for global land areas</article-title>
+          .
+          <source>Int. J. Climatol. 25</source>
+          ,
+          <fpage>1965</fpage>
+          -
+          <lpage>1978</lpage>
+          . doi:
+          <volume>10</volume>
+          .1002/joc.1276
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Kane</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Debinski</surname>
+            ,
+            <given-names>D. M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Anderson</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Scasta</surname>
+            ,
+            <given-names>J. D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Engle</surname>
+            ,
+            <given-names>D. M.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Miller</surname>
+            ,
+            <given-names>J. R.</given-names>
+          </string-name>
+          (
+          <year>2017</year>
+          ).
+          <article-title>Using regional climate projections to guide grassland community restoration in the face of climate change</article-title>
+          .
+          <source>Front. Plant Sci</source>
+          .
+          <volume>8</volume>
+          :730. doi:
+          <volume>10</volume>
+          .3389/fpls.
+          <year>2017</year>
+          .00730
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Larson</surname>
+            ,
+            <given-names>D. L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bright</surname>
+            ,
+            <given-names>J. B.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Drobney</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Larson</surname>
+            ,
+            <given-names>J. L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Palaia</surname>
+            ,
+            <given-names>N.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Rabie</surname>
+            ,
+            <given-names>P. A.</given-names>
+          </string-name>
+          , et al. (
+          <year>2011</year>
+          ).
+          <article-title>Effects of planting method and seed mix richness on the early stages of tallgrass prairie restoration</article-title>
+          .
+          <source>Biol. Conserv</source>
+          .
+          <volume>144</volume>
+          ,
+          <fpage>3127</fpage>
+          -
+          <lpage>3139</lpage>
+          . doi:
+          <volume>10</volume>
+          .1016/j.biocon.
+          <year>2011</year>
+          .
+          <volume>10</volume>
+          .018
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>Merow</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Smith</surname>
+            ,
+            <given-names>M. J.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Silander</surname>
+            ,
+            <given-names>J. A.</given-names>
+          </string-name>
+          (
+          <year>2013</year>
+          ).
+          <article-title>A practical guide to MaxEnt for modeling species' distributions: what it does, and why inputs and settings matter</article-title>
+          .
+          <source>Ecography</source>
+          <volume>36</volume>
+          ,
+          <fpage>1058</fpage>
+          -
+          <lpage>1069</lpage>
+          . doi:
+          <volume>10</volume>
+          .1111/j.1600-
+          <fpage>0587</fpage>
+          .
+          <year>2013</year>
+          .
+          <volume>07872</volume>
+          .x
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Pearson</surname>
+            ,
+            <given-names>R. G.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Dawson</surname>
+            ,
+            <given-names>T. P.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <article-title>Predicting the impacts of climate change on the distribution of species: are bioclimate envelope models useful? Glob</article-title>
+          . Ecol. Biogeogr.
+          <volume>12</volume>
+          ,
+          <fpage>361</fpage>
+          -
+          <lpage>371</lpage>
+          . doi:
+          <volume>10</volume>
+          .1046/j.
+          <fpage>1466</fpage>
+          -
+          <lpage>822X</lpage>
+          .
+          <year>2003</year>
+          .
+          <volume>00042</volume>
+          .x
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Pearson</surname>
+            ,
+            <given-names>R. G.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Raxworthy</surname>
+            ,
+            <given-names>C. J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Nakamura</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Peterson</surname>
+            ,
+            <given-names>A. T.</given-names>
+          </string-name>
+          (
+          <year>2007</year>
+          ). ORIGINAL ARTICLE:
+          <article-title>Predicting species distributions from small numbers of occurrence records: a test case using cryptic geckos in Madagascar</article-title>
+          .
+          <source>J. Biogeogr</source>
+          .
+          <volume>34</volume>
+          ,
+          <fpage>102</fpage>
+          -
+          <lpage>117</lpage>
+          . doi:
+          <volume>10</volume>
+          .1111/j.1365-
+          <fpage>2699</fpage>
+          .
+          <year>2006</year>
+          .
+          <volume>01594</volume>
+          .x
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Phillips</surname>
+            ,
+            <given-names>S. J.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Dudík</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>2008</year>
+          ).
+          <article-title>Modeling of species distributions with Maxent: new extensions and a comprehensive evaluation</article-title>
+          .
+          <source>Ecography</source>
+          <volume>31</volume>
+          ,
+          <fpage>161</fpage>
+          -
+          <lpage>175</lpage>
+          . doi:
+          <volume>10</volume>
+          .1111/j.0906-
+          <fpage>7590</fpage>
+          .
+          <year>2008</year>
+          .
+          <volume>5203</volume>
+          .x
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <surname>Pillsbury</surname>
+            ,
+            <given-names>F. C.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Miller</surname>
+            ,
+            <given-names>J. R.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Debinski</surname>
+            ,
+            <given-names>D. M.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Engle</surname>
+            ,
+            <given-names>D. M.</given-names>
+          </string-name>
+          (
+          <year>2011</year>
+          ).
+          <article-title>Another tool in the toolbox? using fire and grazing to promote bird diversity in highly fragmented landscapes</article-title>
+          .
+          <source>Ecosphere</source>
+          <volume>2</volume>
+          ,
+          <fpage>1</fpage>
+          -
+          <lpage>14</lpage>
+          . doi: 10.
+          <year>1890</year>
+          /ES10-00154.
+          <fpage>1</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <string-name>
+            <surname>Ram</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          (
+          <year>2016</year>
+          ).
+          <article-title>ecoengine: Programmatic Interface to the API Serving UC Berkeley's Natural History Data</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <string-name>
+            <surname>Rupp</surname>
+            ,
+            <given-names>D. E.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Abatzoglou</surname>
+            ,
+            <given-names>J. T.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hegewisch</surname>
+            ,
+            <given-names>K. C.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Mote</surname>
+            ,
+            <given-names>P. W.</given-names>
+          </string-name>
+          (
+          <year>2013</year>
+          ).
+          <article-title>Evaluation of CMIP5 20th century climate simulations for the Pacific Northwest</article-title>
+          ,
+          <string-name>
+            <given-names>U. S. A. J.</given-names>
+            <surname>Geophys</surname>
+          </string-name>
+          . Res.
+          <volume>118</volume>
+          :2013JD020085. doi:
+          <volume>10</volume>
+          .1002/jgrd.50843
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <surname>Soberón</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Nakamura</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          (
+          <year>2009</year>
+          ).
+          <article-title>Niches and distributional areas: concepts, methods, and assumptions</article-title>
+          .
+          <source>Proc. Natl. Acad. Sci. U.S.A. 106 (Suppl. 2)</source>
+          ,
+          <fpage>19644</fpage>
+          -
+          <lpage>19650</lpage>
+          . doi:
+          <volume>10</volume>
+          .1073/pnas.0901637106
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <surname>Taiz</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Zeiger</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Møller</surname>
+            ,
+            <given-names>I. M.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Murphy</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>2014</year>
+          ).
+          <article-title>Plant Physiology and Development</article-title>
+          . Sunderland, MA: Sinauer.
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <string-name>
+            <surname>Thuiller</surname>
+            ,
+            <given-names>W.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Araújo</surname>
+            ,
+            <given-names>M. B.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Lavrovel</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          (
+          <year>2004</year>
+          ).
+          <article-title>Special paper: do we need landcover data to model species distributions in Europe?</article-title>
+          J. Biogeogr.
+          <volume>31</volume>
+          ,
+          <fpage>353</fpage>
+          -
+          <lpage>361</lpage>
+          . doi:
+          <volume>10</volume>
+          .1046/j.0305-
+          <fpage>0270</fpage>
+          .
+          <year>2003</year>
+          .
+          <volume>00991</volume>
+          .x
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <string-name>
+            <surname>Vogel</surname>
+            ,
+            <given-names>J. A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Debinski</surname>
+            ,
+            <given-names>D. M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Koford</surname>
+            ,
+            <given-names>R. R.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Miller</surname>
+            ,
+            <given-names>J. R.</given-names>
+          </string-name>
+          (
+          <year>2007</year>
+          ).
+          <article-title>Butterfly responses to prairie restoration through fire and grazing</article-title>
+          .
+          <source>Biol. Conserv</source>
+          .
+          <volume>140</volume>
+          ,
+          <fpage>78</fpage>
+          -
+          <lpage>90</lpage>
+          . doi:
+          <volume>10</volume>
+          .1016/j.biocon.
+          <year>2007</year>
+          .
+          <volume>07</volume>
+          .027
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <string-name>
+            <surname>Warren</surname>
+            ,
+            <given-names>D. L.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Seifert</surname>
+            ,
+            <given-names>S. N.</given-names>
+          </string-name>
+          (
+          <year>2011</year>
+          ).
+          <article-title>Ecological niche modeling in Maxent: the importance of model complexity and the performance of model selection criteria</article-title>
+          .
+          <source>Ecol. Appl</source>
+          .
+          <volume>21</volume>
+          ,
+          <fpage>335</fpage>
+          -
+          <lpage>342</lpage>
+          . doi: 10.
+          <year>1890</year>
+          /10-
+          <fpage>1171</fpage>
+          .
+          <fpage>1</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <string-name>
+            <surname>Wieczorek</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Bloom</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Guralnick</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Blum</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Döring</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Giovanni</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          , et al. (
+          <year>2012</year>
+          ).
+          <article-title>Darwin core: an evolving community-developed biodiversity data standard</article-title>
+          .
+          <source>PLoS ONE 7:e29715. doi: 10.1371/journal.pone.0029715</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <string-name>
+            <surname>Yackulic</surname>
+            ,
+            <given-names>C. B.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Chandler</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Zipkin</surname>
+            ,
+            <given-names>E. F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Royle</surname>
+            ,
+            <given-names>J. A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Nichols</surname>
+            ,
+            <given-names>J. D.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Grant</surname>
+            ,
+            <given-names>E. H. C.</given-names>
+          </string-name>
+          , et al. (
+          <year>2013</year>
+          ).
+          <article-title>Presence-only modelling using MAXENT: when can we trust the inferences? Methods Ecol</article-title>
+          .
+          <source>Evol</source>
+          .
+          <volume>4</volume>
+          ,
+          <fpage>236</fpage>
+          -
+          <lpage>243</lpage>
+          . doi:
+          <volume>10</volume>
+          .1111/2041-210x.
+          <fpage>12004</fpage>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

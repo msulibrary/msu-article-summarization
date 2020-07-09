@@ -1,0 +1,2449 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Perspectives on Science</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Who's Afraid of Dissent? Addressing Concerns about Undermining Scientific Consensus in Public Policy Developments Inmaculada de Melo-Martín and Kristen Intemann</article-title>
+      </title-group>
+      <pub-date>
+        <year>2014</year>
+      </pub-date>
+      <volume>22</volume>
+      <issue>4</issue>
+      <fpage>593</fpage>
+      <lpage>615</lpage>
+      <abstract>
+        <p>Many argue that encouraging critical dissent is necessary for promoting scientific objectivity and progress. Yet despite the importance of dissent, some dissent can have negative consequences, including undermining confidence in existing scientific consensus, confusing the public, and preventing sound policy. For example, private industries and think tanks have funded dissenting research to create doubt and stall regulations. To protect scientifically sound policies, some have responded by attempting to minimize or discourage dissent perceived to be problematic. We argue that targeting dissent as an obstacle to public policy is both misguided and dangerous.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>1. Introduction</title>
+      <p>
+        Many have argued that allowing and encouraging public avenues for dissent and
+critical evaluation of scientific research is a necessary condition for promoting the
+objectivity of scientific communities
+        <xref ref-type="bibr" rid="ref35 ref65">(Longino 2002; Solomon 2001; Longino
+1990)</xref>
+        . A scientific community that ensures members are accorded the
+opportunity to raise criticisms, offer alternative models and explanations, identify
+unjustified background assumptions, and have those objections taken seriously is
+thought to be more objective. Such mechanisms are necessary for both limiting
+the influence of problematic biases of individual researchers as well as ensuring
+that a full range of research projects, hypotheses, models, and explanations
+receive adequate attention.
+      </p>
+      <p>
+        Yet despite the epistemic importance of dissent within science, there is
+growing concern about the negative role of dissenting voices on public policy.
+For instance, private industry and think tanks have funded research whose
+primary aim has been to manufacture dissent by generating studies that call into
+question widely received views, about climate change, environmental toxins, or
+the hazards of smoking
+        <xref ref-type="bibr" rid="ref28 ref28 ref40 ref40 ref41 ref48 ref48 ref5 ref5 ref52 ref52 ref53 ref53 ref55 ref55 ref64 ref64 ref69">(Michaels 2008; Oreskes and Conway 2010a; Oreskes and
+Conway 2010b)</xref>
+        . In other cases, respectable scientists defend claims that are
+entirely inconsistent with widely accepted scientific views
+        <xref ref-type="bibr" rid="ref12 ref13 ref30 ref69">(Duesberg et al. 2003;
+Duesberg and Rasnick 1998; Wakefield et al. 1998)</xref>
+        . Because such studies
+present what appears to be conflicting evidence, they have been used to call into
+question government regulations on grounds that there is a lack of scientific
+consensus
+        <xref ref-type="bibr" rid="ref12 ref12 ref17 ref28 ref40 ref41 ref42 ref48 ref5 ref52 ref53 ref55 ref64 ref68">(Michaels 2005; Enstrom and Kabat 2003; Vastag 2001; Oreskes and
+Conway 2010b; Michaels 2008; Duesberg et al. 2003)</xref>
+        .
+      </p>
+      <p>
+        Thus, there are two sorts of negative consequences dissent can have. It
+can have negative epistemic consequences when it results in confusion or false
+beliefs about the true state of the science, the existence of a scientific consensus,
+or the degree to which a claim is supported by evidence. But in cases where the
+scientific evidence is relevant for public policy, these negative epistemic
+consequences can also have policy consequences. Scientific consensus is often
+taken to be a benchmark for scientific knowledge (Longino 2002) and thus
+thought to be important for legitimately grounding policy decisions
+        <xref ref-type="bibr" rid="ref28">(Jasanoff
+2010)</xref>
+        . Dissent, insofar as it appears to call into question the scientific consensus,
+may make it appear to the public or policymakers that there is not sufficient
+evidence to support the adoption of particular public policies
+        <xref ref-type="bibr" rid="ref10 ref28 ref28 ref3 ref39 ref40 ref40 ref48 ref48 ref49 ref5 ref5 ref52 ref52 ref53 ref53 ref55 ref55 ref6 ref64 ref64 ref66 ref9">(McGarity and
+Wagner 2008; Diethelm and McKee 2009; McKee and Diethelm 2010; Oreskes
+and Conway 2010b; Specter 2007; Bateman 2007; Omer et al. 2009)</xref>
+        .
+      </p>
+      <p>
+        Motivated by a desire to protect what they take to be scientifically sound
+policies, then, many scientists and science studies scholars have adopted strategies
+that target dissent thought to be problematic. Some have, for example, attempted
+to discredit dissenters by showing their financial ties to industry or political think
+tanks.
+        <xref ref-type="bibr" rid="ref28 ref28 ref40 ref40 ref41 ref48 ref48 ref5 ref5 ref51 ref52 ref52 ref53 ref53 ref55 ref55 ref64 ref64 ref69">(Michaels 2008; Oreskes 2004; Oreskes and Conway 2010a; Oreskes and
+Conway 2010b)</xref>
+        . Some scientists have engaged in practices aimed at masking
+existing dissent from the public so as to prevent confusion or doubt about the
+scientific consensus
+        <xref ref-type="bibr" rid="ref4 ref70">(Waltz 2009; Beatty 2006)</xref>
+        . What these strategies have in
+common, however, is that they all concede that such dissent – or dissent likely to
+have negative epistemic consequences – is an obstacle to justifiably enacting
+public policy.
+      </p>
+      <p>While we share concerns about the extent to which dissent can have
+negative consequences, we argue here that targeting dissent as an obstacle to
+public policy is both misguided and dangerous. It is misguided because it relies on
+problematic assumptions about the nature of dissent and of scientific consensus
+and the role of each in public policy development. It is dangerous because
+viewing dissent as an obstacle to policy is likely to increase illegitimate instances
+of dissent, deprive us of resources to criticize special interest science, and stifle
+legitimate scientific dissent that is crucial to scientific progress and sound public
+policy. If we are correct, rather than targeting dissent, the focus of discussions
+should be finding successful strategies to help the public and policymakers better
+understand the nature of consensus and dissent, as well as their role in sound
+public policy making.</p>
+    </sec>
+    <sec id="sec-2">
+      <title>2. Worries about scientific dissent</title>
+      <p>
+        Clearly we want public policies, health advice, or regulatory decisions to be
+informed by scientific knowledge
+        <xref ref-type="bibr" rid="ref11 ref19 ref29 ref32 ref45 ref6 ref62 ref8">(Collins and Evans 2007; Selinger and Crease
+2006; Bijker et al. 2009; Jasanoff 2004; Kitcher 2011)</xref>
+        . The existence of a
+scientific consensus is often taken to be a proxy for such knowledge. When –
+through rational mechanisms – experts agree on a particular scientific claim, e.g.,
+that smoking causes cancer, that anthropogenic causes are responsible for global
+warming, or that condoms prevent transmission of HIV, this consensus is thought
+to be evidence for the strength of the scientific evidence. Worries about dissent,
+then, seem to have to do with its potential to call into question existing scientific
+consensus and with it, the legitimacy of using existing scientific evidence as
+grounds for public policy.
+      </p>
+      <p>
+        Recent controversies in science-based public policy provide support for
+these worries. In some well-publicized cases, for instance, oil, tobacco, and
+chemical companies have been shown to fund dissenting scientific studies in an
+apparent attempt to generate doubt about current scientific theories
+        <xref ref-type="bibr" rid="ref28 ref39 ref40 ref41 ref46 ref48 ref5 ref52 ref53 ref55 ref64 ref9">(Oreskes and
+Conway 2010b; Michaels 2008; McGarity and Wagner 2008; Mooney 2005)</xref>
+        . In
+some cases, scientists with ties to the tobacco industry produced several studies
+that rejected the consensus about a greater risk of lung cancer for smokers
+        <xref ref-type="bibr" rid="ref28 ref40 ref41 ref48 ref5 ref52 ref53 ref55 ref64">(Oreskes and Conway 2010; Michaels 2008)</xref>
+        . Similarly, scientists funded by the
+chemical industry have published studies that challenged the consensus and
+purported to support “hormesis,” the hypothesis that low doses of toxins and
+carcinogens have some beneficial health effects for humans
+        <xref ref-type="bibr" rid="ref15 ref63">(Shrader-Frechette
+2010; Elliott 2011)</xref>
+        .
+      </p>
+      <p>
+        In another now infamous case, publication of a link between the measles,
+childhood vaccines and autism
+        <xref ref-type="bibr" rid="ref11 ref19 ref45 ref62 ref69 ref8">(Wakefield et al. 1998; Geier and Geier 2006,
+2007)</xref>
+        questioned the scientific consensus and presented the safety of vaccines as
+contested knowledge, even when no real disagreement existed in the scientific
+community
+        <xref ref-type="bibr" rid="ref28 ref28 ref28 ref31 ref40 ref40 ref40 ref48 ref48 ref48 ref5 ref5 ref5 ref52 ref52 ref52 ref53 ref53 ref53 ref55 ref55 ref55 ref64 ref64 ref64">(Shwed and Bearman 2010; Poland and Spier 2010; Kirby 2005;
+Olmsted and Blaxill 2010)</xref>
+        . As a result, at least in part because of such dissent,
+many parents have rejected vaccinations for their children, risking the loss of herd
+immunity for diseases that had been largely eradicated from the industrialized
+world
+        <xref ref-type="bibr" rid="ref22 ref27 ref49 ref7">(Omer et al. 2009; Glanz et al. 2009; Jansen et al. 2003; Brown et al. 2010)</xref>
+        .
+      </p>
+      <p>Thus, dissenting voices can have considerable negative consequences on
+public health and may delay or prevent needed regulations or other sound public
+policies. Such dissent can also waste time and resources, both on the side of
+scientists and policymakers, when they are required to continue offering thorough
+critiques of dissenting voices or justifying why such voices ought to be dismissed.</p>
+    </sec>
+    <sec id="sec-3">
+      <title>3. Targeting dissent as an obstacle to public policy</title>
+      <p>In an effort to prevent these consequences, scientists and science studies
+scholars have responded by adopting a variety of interrelated strategies, all of
+which target dissent perceived to be problematic so that it does not present an
+obstacle to particular science-based policies. Three of them are particularly
+common: masking disagreement, silencing or preventing what is taken to be
+problematic dissent, and discrediting dissenters.</p>
+      <p>
+        One way to prevent the public and policymakers from being negatively
+influenced by dissent is to present a so-called united front to the public, or what
+Beatty refers to as “masking disagreement” by “joint acceptance”
+        <xref ref-type="bibr" rid="ref4">(Beatty 2006)</xref>
+        .
+In these cases, scientists may, for example, mask existing disagreements by
+presenting to the public and policy makers only those scientific claims about
+which they can all agree while omitting or downplaying those aspects about
+which disagreements exist. For instance, although it is correct that there is
+widespread agreement that average global temperature is increasing, there are also
+general disagreements about how much warming will occur, how quickly it will
+occur, and how best to prevent or mitigate it. Because presenting these
+disagreements to the public is likely to create doubt and uncertainty not just about
+the particular aspects about which there is disagreement but also about those for
+which agreement exists, scientists might conceal discrepancies by presenting only
+very general claims for which there are a consensus
+        <xref ref-type="bibr" rid="ref50">(Oppenheimer et al. 2007)</xref>
+        .
+Such agreements are, strictly speaking, genuine agreements, but they are
+generally over simplifications that ignore or mask existing disagreements.
+      </p>
+      <p>
+        This same strategy of emphasizing consensus has also been utilized by
+science studies scholars attempting to defend certain scientific claims and
+policies. Oreskes and Conway, for example, have responded to climate change
+skeptics by showing that the overwhelming number of peer-reviewed articles
+published support the claim that average global temperature is increasing and that
+human activities are a significant cause
+        <xref ref-type="bibr" rid="ref28 ref40 ref48 ref5 ref51 ref52 ref53 ref55 ref64">(Oreskes and Conway 2010b; Oreskes
+2004)</xref>
+        . They believe that, given the preponderance of evidence, rather than being
+excessively careful about the uncertainty of any scientific knowledge claim,
+climate scientists should now clearly label anthropogenic warming a fact
+        <xref ref-type="bibr" rid="ref28 ref40 ref48 ref5 ref52 ref53 ref55 ref64 ref69">(Oreskes
+and Conway 2010a)</xref>
+        . Demonstrating the strength and breadth of the existing
+scientific consensus is correctly thought to help put dissenting views in
+perspective, so that they are not given more weight than they deserve. But the
+emphasis on the existing consensus also works to mask the disagreements that do
+exist as well as the validity of evidence that may contradict some prevalent
+scientific assumptions.
+      </p>
+      <p>
+        A second strategy for targeting dissent thought to pose an obstacle to
+sound public policy is to silence dissenting views that are perceived to be
+particularly problematic. For example, dissent can be hindered through the
+peerreview process. In order to do so, papers are sent to experts in the field, who quite
+likely will hold the prevailing view and who will be less sympathetic to dissenting
+studies. That is, they will be more inclined to think that dissenting research must
+be bad science. Of course, sometimes this will indeed be the case, but not always.
+It is not easy to show that peer-review is used as a way to limit dissent
+        <xref ref-type="bibr" rid="ref37">(Martin
+1999)</xref>
+        . However, the highly publicized case of hacked emails from a computer
+server at the University of East Anglia’s Climate Research Unit (CRU) calls
+attention to this strategy. Climate change scientists at the CRU came under fire
+because in some of those stolen emails, researchers were apparently boasting
+about how they could prevent articles with even the appearance of questioning
+anthropogenic climate change from surviving peer review
+        <xref ref-type="bibr" rid="ref60">(Schiermeier 2009)</xref>
+        .
+The Inspector General later found that there was no evidence that the CRU
+scientists had done anything wrong
+        <xref ref-type="bibr" rid="ref47">(NOAA 2011)</xref>
+        . Nonetheless, this episode, as
+well as the subsequent calls to take peer-review off its pedestal
+        <xref ref-type="bibr" rid="ref25">(Horton 2010)</xref>
+        ,
+call attention to the ways in which peer-review might be used to suppress the
+publication of research that dissent from widely accepted scientific claims
+because it can interfere with the development of public policies.
+      </p>
+      <p>
+        When dissenting articles or books are published, a third strategy that has
+been employed by scientists and science scholars is to discredit the dissenter.
+Science studies scholars have often responded to cases of manufactured dissent by
+not just criticizing the science, but by publicizing the financial or political ties that
+the dissenters have to think tanks or private industry
+        <xref ref-type="bibr" rid="ref15 ref28 ref40 ref48 ref5 ref52 ref53 ref55 ref63 ref64">(Oreskes and Conway 2010;
+Shrader-Frechette 2010, Elliott 2011)</xref>
+        . Scientists have also attempted to discredit
+putatively problematic dissenters. A recent example can be found in debates
+about genetically modified organisms (GMOs). In 2007, the Proceedings of the
+National Academy of Sciences (PNAS) published a study that challenged the
+general scientific consensus on the safety of GMOs
+        <xref ref-type="bibr" rid="ref58">(Rosi-Marshall et al. 2007)</xref>
+        .
+According to the study, cadis flies consuming Bt maize pollen died at twice the
+rate of flies fed non-Bt maize pollen. Immediately after publication, not only the
+evidence presented in the article, but also its authors were subjected to a relentless
+and scathing attack by a group of scientists who favor biotech crops
+        <xref ref-type="bibr" rid="ref70">(Waltz 2009)</xref>
+        .
+Arguing that one of their main motivations is the fear that anti-GMO interest
+groups can seize on the study to advance their agenda, pro-GMO scientists helped
+organize widespread and sustained criticism of the study. The attack was broad
+ranging. Not only were the authors denounced for presumed glaring errors in
+their scientific methodology and conclusions, criticisms were directed to the
+PNAS for publishing the article as well as the National Science Foundation for
+funding the study in the first place. Some of the participants even accused the
+authors of misconduct. Given the variety of targets, it is not unreasonable to argue
+that scientific issues were not the only concern. Even if the study were
+scientifically flawed, and many other scientists thought that it was not, the
+backlash seemed aimed more at discouraging research contrary to the received
+scientific view of GMO safety than at presenting legitimate scientific concerns
+about the paper
+        <xref ref-type="bibr" rid="ref70">(Waltz 2009)</xref>
+        . A potential consequence of this coordinated and
+sustained strategy is the discouragement to conduct studies or publish findings
+that may be counter to dominant views
+        <xref ref-type="bibr" rid="ref18">(Frank 2004)</xref>
+        . This strategy of discrediting
+the dissenter can hinder dissent not just by making a particular scientist less
+credible, it can also deter funding agencies from financing such research as well
+as editors from publishing it. It may also have a general effect of deterring other
+scientists from research that is inconsistent with widely accepted theories, insofar
+as doing so will be risky to their careers.
+      </p>
+      <p>As we can see by these examples, attempts to protect policymaking from
+dissenting views that attempt to challenge the scientific consensus can take a
+variety of shapes and originate from players of different political persuasions. But
+as mentioned earlier, what these strategies have in common is that those who use
+them are concerned with preventing the negative effects that dissenting views can
+present to sound policy development. Without dismissing the relevance of such
+concerns, we argue here that targeting dissent as a way to protect public policy
+making is both misguided and dangerous.</p>
+    </sec>
+    <sec id="sec-4">
+      <title>4. Why targeting dissent is misguided</title>
+      <p>Given the negative effects that a challenge to the scientific consensus by
+dissenting voices can have, it might seem reasonable to attempt to use the
+strategies mentioned, or similar ones, to protect sound public policy development.
+But the belief that dissent is in these cases the appropriate target of concern is
+grounded on a variety of assumptions that may not be justified. In what follows
+we reconstruct and assess what we take to be the most plausible arguments that
+can be presented to make sense of the belief that targeting dissent as an obstacle
+to public policy is appropriate. We conclude that such arguments fail. We do not
+claim that those who are worried about the negative policy effects of dissent
+explicitly make these arguments. Our claim is simply that such concerns are
+plausible only under these assumptions.</p>
+    </sec>
+    <sec id="sec-5">
+      <title>A. The consensus-as-necessary argument</title>
+      <p>Concerns about dissent appear reasonable when scientific consensus is
+taken to be a necessary condition for the development or enactment of sound
+public policy. A plausible argument that could make sense of such concerns is
+the following:
+1. If a public policy P is to be justifiably enacted, then there must be a
+consensus on some (pertinent) scientific truth Q.
+2. The existence of dissenting voices undermines the scientific consensus
+about Q.
+3. Dissenting voices exist.
+4. Therefore, consensus about Q is undermined, by Modus Ponens 2,3.
+5. Therefore, public policy P cannot be justifiably enacted, by Modus</p>
+      <p>Tollens 1,4.</p>
+      <p>So, for example, one might argue that in order for regulations on
+anthropogenic CO2 emissions to be justified, it must be the case that there is a
+scientific consensus around the hypothesis that such emissions significantly
+contribute to climate change. Climate deniers who challenge that view could then
+undermine confidence in the scientific consensus and pose an obstacle to policy
+regulations on CO2. Strategies used to block the effects of this dissent then seem
+reasonable, as such strategies will eliminate a significant obstacle –dissenting
+voices-- to the development of appropriate public policies. But the soundness of
+this argument, and thus its ability to explain the appropriateness of targeting
+dissenting voices, seems to be grounded on several controversial assumptions.</p>
+      <p>First, as plausible as it may initially seem, the truth of premise 1 is
+questionable as it is not obvious that the existence of a consensus is necessary for
+making rational public policy. Often there are contexts in which we must adopt
+public policies despite significant uncertainties and thus despite a lack of
+consensus about the scientific evidence. For example, significant, and legitimate,
+disagreement might exist about the extent or immediacy of climate change
+impacts. Nonetheless, one might still argue that in the face of uncertainty, certain
+risks are more acceptable than others. Hence, it might be rational to heavily
+invest in alternative energies or reduce greenhouse gas emissions because the risk
+of unnecessary economic costs might be more acceptable than the risks of doing
+nothing and being wrong.</p>
+      <p>
+        Second, even if one assumes that premise 1 is true, the argument’s
+soundness seems to depend on what constitutes scientific consensus. If one
+assumes that the consensus needed for public policy involves unanimity
+        <xref ref-type="bibr" rid="ref67">(Tucker
+2003)</xref>
+        , then the existence of any dissenting voices might indeed be a problem for
+the scientific consensus and an obstacle to public policy development. Under the
+consensus-as-unanimity view, concerns about dissenting voices would then be
+understandable.
+      </p>
+      <p>
+        But the requirement of a unanimous consensus among scientists seems
+problematic for a variety of reasons
+        <xref ref-type="bibr" rid="ref1 ref21 ref28 ref40 ref48 ref5 ref52 ref53 ref55 ref64 ref65">(Gilbert 1987; Beatty and Moore 2010;
+Longino 2002; Solomon 2001; Ackermann 1986)</xref>
+        . First, as many have
+acknowledged, unanimity can be difficult to come by even when the epistemic
+agents are rational
+        <xref ref-type="bibr" rid="ref57">(Rosen 2001)</xref>
+        . There is significant evidence that, even in the
+same discipline, scientists’ inferences are subject to contextual values, differences
+in background assumptions, the use of various inferential principles, and
+differences in theory assessment strategies, which may make unanimity
+impossible
+        <xref ref-type="bibr" rid="ref11 ref35 ref45 ref45 ref65 ref8">(Solomon 2001; Longino 1990, 2002; Moffett 2007; Dietrich and
+Skipper 2007)</xref>
+        . Second, even if possible, requiring unanimity might not be
+epistemically desirable. Some have argued that the existence of a dissenting
+minority is likely to strengthen a consensus as there would be confidence that the
+agreed upon position has been tested against other worthy alternatives
+        <xref ref-type="bibr" rid="ref16 ref23 ref28 ref40 ref43 ref48 ref5 ref52 ref53 ref55 ref64 ref65">(Elster
+1986; Beatty and Moore 2010; Gutmann 2004; Mill 1978; Longino 2002;
+Solomon 2001)</xref>
+        . Third, the requirement of unanimity would actually give
+disproportionate power to dissenting views, whether or not the dissenting views
+are reasonable, because one or a few expressions of disagreement will be
+sufficient to prevent a unanimous agreement
+        <xref ref-type="bibr" rid="ref28 ref40 ref48 ref5 ref52 ref53 ref55 ref64">(Beatty and Moore 2010)</xref>
+        . In other
+words, it would give a single dissenting voice a “veto power” with greater
+influence on the outcome than a single advocate of the consensus view. Hence,
+the requirement of unanimity itself creates the need for strategies that call for
+blocking the negative effects of dissent. It makes dissenting voices, whether those
+dissenting voices are justified or not, a more serious threat to the authority of
+science, and thus a significantly more robust obstacle to public policy.
+      </p>
+      <p>But if the consensus required in premise 1 does not involve unanimity but
+allows for the existence of a dissenting minority, then how should we understand
+premise 2’s claim that dissenting voices undermine scientific consensus and thus
+present an obstacle to enactment of a particular policy? Premise 2 might
+plausibly be interpreted as making an epistemically normative claim that there are
+some dissenting voices that appropriately undermine consensus and with it the
+justification for adopting certain policies. Perhaps, for example, dissent might
+appropriately undermine the consensus view when it receives a significant amount
+of uptake after careful consideration, or when it reflects persistent anomalies not
+explained by the consensus view, or when it is advocated by a diverse group of
+scientists who have no shared political or economic interest at stake. Indeed, it
+seems right to say that if such dissent existed, our confidence in the consensus
+view ought to decrease.</p>
+      <p>
+        In this case, however, those who target dissent would need to have an
+account of how to distinguish between dissent that would legitimately undermine
+the scientific consensus and dissent that would not do so. However, even among
+those who have targeted dissent as an obstacle to public policy, it is difficult to
+find a systematic defense of what kind or under what conditions dissent is
+appropriately consensus-undermining or not. Indeed, a review of a variety of
+cases where dissenting voices have been suppressed, their motives criticized, or
+the dissent masked shows that these strategies can target dissenting voices that
+appear to have very different characteristics
+        <xref ref-type="bibr" rid="ref13 ref18 ref28 ref30 ref33 ref37 ref38 ref4 ref40 ref48 ref5 ref52 ref53 ref55 ref64 ref69 ref70">(Martin 1999; Martin 2004; Oreskes
+and Conway 2010a; Beatty 2006; Waltz 2009; Frank 2004; Kuehn 2004; Kidd
+and Modlin 1998)</xref>
+        . This failure might have to do with a variety of factors, such as
+the difficulty of determining the quality of scientific deliberations, the conditions
+under which consensus is achieved, the composition of scientific communities, or
+the epistemic authority given to the dissenters during deliberations, all of which
+are likely to influence determinations about whether a particular dissent is
+consensus-undermining or consensus-strengthening
+        <xref ref-type="bibr" rid="ref28 ref40 ref48 ref5 ref52 ref53 ref55 ref64 ref65">(Beatty and Moore 2010;
+Solomon 2001; Longino 2002)</xref>
+        .
+      </p>
+      <p>More importantly, if premise 2 implicitly presupposes a epistemically
+normative distinction, then to the extent that premise 2 refers only to instances of
+dissent that are appropriately consensus-undermining, this has implications for
+how we can understand premise 3’s assertion that dissenting voices exist. In
+order for the argument to be valid, it will not be sufficient to show that some
+dissenting voices exist. Rather, premise 3 must be understood as claiming that the
+dissent in question is appropriately consensus-undermining (such that it would
+pose a threat to policy). But if this is the case, then such dissent may well present
+a legitimate obstacle to the policy in question. That is, if the dissent is legitimate
+dissent that rationally undermines consensus and the justification for a particular
+policy, then it is not the sort of dissent that should be discouraged or dismissed. If
+this is correct, this argument fails to provide justifications to target dissent as an
+obstacle to public policy. Clearly, critics of dissent are concerned about dissent
+that would inappropriately undermine the consensus –and thus inappropriately
+challenge public policy.</p>
+      <p>Perhaps then premise 2 is best understood as a descriptive claim about
+laypersons’ perceptions, rather than referring to dissent that would appropriately
+undermine scientific consensus. Policymakers or the public, insofar as they lack
+the expertise necessary to be able to accurately assess the quality or weight of
+dissenting studies in relation to existing scientific evidence, may not be able to
+distinguish appropriate and inappropriate instances of dissent. As a result, they
+may mistakenly believe all dissent to be consensus-undermining. If so, the public
+will erroneously take any dissenting voices to call into question the scientific
+consensus. Dissenting voices should be targeted then, it might be argued, because
+of their practical implications for public policy developments: they will cause
+laypersons to think that there is no scientific consensus, even when there is one.
+Believing that scientific consensus is missing, policy makers and the public might
+conclude that the rational grounds for a particular public policy are lacking and
+therefore that such policies should not be enacted. Strategies that target dissent, on
+this view, are pragmatic tactics aimed at trying to prevent such confusion and
+remove an illegitimate obstacle to public policy.</p>
+      <p>Interpreting premise 2 in this way then, makes the targeting of dissent
+appear reasonable. And this interpretation seems indeed quite plausible when one
+reflects on the instances of dissent that have received the most negative attention.
+Those who have targeted dissent as an obstacle to public policy do not take
+climate deniers, tobacco scientists, and creationists to provide the sort of dissent
+that is epistemically valuable and can appropriately undermine scientific
+consensus. Their fear is that the public and policy makers would however
+incorrectly see the dissenters’ claims as challenges to the scientific consensus and
+thus would fail to enact or support scientifically-grounded public policies. This
+argument would then serve to justify the targeting of dissenting voices that,
+although not really a source of concern for scientific knowledge, are perceived by
+the public and policy makers to be so.</p>
+      <p>Yet, even if this interpretation of the argument justifies the targeting of
+dissent as a way to eliminate an illegitimate obstacle to public policy making, it is
+not clear that such is the best way to address the problem. Clearly, the problem
+that inappropriate dissent presents to the enactment of rational public policy is the
+result not only of the existence of such voices but also, and more fundamentally,
+of incorrect assumptions that laypersons apparently have about the nature of
+dissent and scientific consensus and their role in sound public policy making. If
+so, addressing the problem does not necessarily require masking or quelling
+dissent, even when such dissent is illegitimate from an epistemic point of view,
+but could also be addressed by educating the public and policymakers about what
+constitutes scientific consensus, how to distinguish between dissent that is
+appropriately consensus-undermining and that which is not, as well as about the
+appropriate relationships between scientific knowledge and public policy.</p>
+      <p>Of course, one might argue that such education is likely to be too difficult
+and it would be more effective to get the public and policy makers to disregard
+dissent that the scientific community deems inappropriate. There is, however,
+something very paternalistic about this approach. It appears to require
+deliberately misleading the public about the nature of scientific consensus and the
+relationship between dissent and public policy “for their own good.” This
+paternalism seems unjustified as there is a non-paternalistic alternative for
+addressing the problem. More importantly, as the recent disputes on climate
+change, intelligent design, or GMOs reflect, it is doubtful that current efforts to
+get policymakers and the public to disregard dissent is any less challenging than
+efforts to ensure a more adequate understanding of scientific consensus, dissent,
+and their relationships to public policy.</p>
+      <p>Moreover, strategies that mask or suppress dissent present problems that
+the education alternative does not face. Such strategies reinforce the false
+perception among laypersons that if there were any dissent, it would undermine
+scientific consensus and its authority to support public policy. This is what
+actually motivates special interests to manufacture dissent in the first place. That
+is, they aim to exploit the false perception that (any) dissent undermines the
+existence of scientific consensus and presents an obstacle to policy. We will
+return to this concern in section 5, where we will argue that targeting dissent has
+additional dangerous consequences that make educating the public a better
+strategy for addressing the problem.</p>
+    </sec>
+    <sec id="sec-6">
+      <title>B. The consensus-as sufficient argument</title>
+      <p>Another option that makes sense of concerns about dissent and justifies the
+targeting of dissenting voices takes scientific consensus to be not necessary for
+the development or enactment of sound public policy but sufficient. A plausible
+reconstruction of the argument would be the following:
+1. If there is a consensus on some (pertinent) scientific truth Q, then
+public policy P is to be justifiably enacted
+2. The existence of dissenting voices appears to1 undermine the scientific
+consensus around Q.
+3. Successfully targeting those dissenting voices will preserve the
+consensus around Q.
+4. Dissenting voices are to be targeted.
+5. Therefore, consensus about Q is preserved, by Modus Ponens 3,4
+6. Therefore, public policy P can be justifiably enacted, by Modus</p>
+      <p>Ponens 1,5</p>
+      <p>This sort of reasoning might seem plausible. For example, one might
+argue that if there were a consensus that anthropogenic greenhouse gas emissions
+are a significant contributor to climate change, then a policy reducing greenhouse
+gas emissions would be justified. If this were true, then targeting problematic
+1 Notice that in this argument premise 2 cannot be taken to presuppose an epistemically normative
+conception of dissent. If premise 2 were to rely on a normative understanding of dissent then the
+argument would be invalid as the dissent to which premises 3 and 4 refer could not be the same
+type of dissent as that of premise 2. In a normative reading of premise 2, the dissent that
+undermines the scientific consensus would do so appropriately, but if so we would not want to
+condemn such dissent because such dissent would be epistemically relevant.
+dissent would be reasonable insofar as it would help preserve the justification for
+emission regulations and remove a significant obstacle to public policy.</p>
+      <p>The assumption that consensus is sufficient for a particular policy might
+seem particularly reasonable when one is confronted with policy options that
+appear to be relatively straightforward. For example, the existence of a scientific
+consensus that tobacco causes cancer might appear sufficient to ground the
+enactment of, say, smoking restrictions.</p>
+      <p>
+        Yet no matter how initially plausible, the assumption that consensus is
+sufficient for the enactment of particular public policies is false. Take, for
+example, the case of biotech crops. Many have argued that there is a scientific
+consensus on the safety of GMOs. They argue that the evidence clearly shows
+that biotech crops, such as Bt corn, pose no serious harms to the health of humans,
+other animals, and the environment. Policies that promote widespread use of this
+new agricultural biotechnology are then said to be science-based, while policies
+that restrict the use of these crops are thought to be unscientific
+        <xref ref-type="bibr" rid="ref14 ref2 ref24 ref44 ref59">(Hodgson 2008;
+Arntzen et al. 2003; Editorial 2007; Miller 2003; Saleh-Lakha and Glick 2005)</xref>
+        .
+But it is obviously not the case that a consensus around the safety of GMOs is
+sufficient to justify the widespread use of such technologies. This incorrectly
+presupposes that health risks are the sole significant concern in the widespread
+implementation of GMOs. But, even if GMOs had no hazardous health
+consequences, there may be other reasons to restrict their use
+        <xref ref-type="bibr" rid="ref34">(Lacey 2005)</xref>
+        , all of
+which would be perfectly consistent with the recognition that indeed GMOs do
+not pose serious health risks. For example, one might reject public polices that
+promote wide use of biotech crops because they present a threat to genetic
+diversity. Similarly, some have argued that transgenic seeds are not only
+biological entities, but also bearers of intellectual property rights and thus they
+can be used to exercise control over the agricultural systems in which they are
+used. Currently, a few companies own the vast majority of the patents for various
+GM plants, which means that farmers worldwide must purchase their seed stock
+from them. Concerns about the developing world’s increased dependence on the
+interests of the global-market and the effects that this might have on people’s
+well-being, and not just worries about health risks can thus ground rejection of
+public policies encouraging an extensive use of GMOs
+        <xref ref-type="bibr" rid="ref39 ref9">(de Melo-Martín and
+Meghani 2008)</xref>
+        .
+      </p>
+      <p>The reason then that the truth of premise 1 might appear uncontroversial is
+that in many cases there exist widely shared background assumptions that are
+implicitly doing important work. For instance, it might seem unproblematic to
+argue that we should adopt smoking restrictions in light of the consensus that
+smoking causes cancer. But such is because most people value their health and
+tend to believe that an important goal of public policy is to protect public health.
+In this case, however, it is these additional value judgments operating as
+background assumptions, and not the scientific consensus alone that help
+determine what policy ought to be adopted.</p>
+      <p>If this is the case, then worries about scientific dissent appear again to be
+misguided. The problem is once more not with dissent but the incorrect
+assumption that scientific consensus is sufficient to establish particular public
+policy options. The choice of public policies is a complex activity. A variety of
+factors can legitimately be taken into account when defending particular policies.
+Scientific evidence ought to be one of those factors, but it is clearly not the only
+one. At times, legitimate economic, scientific, social, and political factors might
+enter into conflict when determining what policy option is best. Reasonable
+disagreements can exist about which factors are weightier.</p>
+      <p>If we are correct, targeting dissent as an obstacle to public policy will not
+address the real problem, that is, the need to ensure that particular public polices,
+thought to be grounded on the scientific evidence, are enacted. An effective
+solution will necessarily involve helping the public and policymakers better
+understand the nature of scientific consensus and dissent, and the role that
+scientific knowledge can play in directing public policy. While we recognize that
+this sort of education would be challenging to accomplish, it would address the
+real problem at stake: protecting rational policymaking.</p>
+    </sec>
+    <sec id="sec-7">
+      <title>5. Why targeting dissent is dangerous</title>
+      <p>Targeting scientific dissent as an obstacle to public policy is not only misguided,
+as it focuses on the wrong aspect of the problem, but also dangerous. This is the
+case for several reasons. First, it can contribute to the very sorts of problems
+critics of dissent seek to address, that is, it can actually increase instances of
+dissenting voices that are merely aimed to create public doubt rather than to
+answer scientific questions. This is so because it can reinforce incorrect
+assumptions, discussed earlier, about the nature of consensus and dissent and their
+relationships to sound public policy making. As a result, it provides incentive to
+create doubt by those who would like to see those policies thwarted. If people
+believe that a good way to undermine an undesirable –economically or
+ideologically-- policy outcome is to challenge the science that presumably
+grounds such policy, they will find the manufacture of dissent an appealing and
+productive strategy. Moreover, in the minds of the public and policymakers,
+targeting dissent reinforces the idea that the dissent in question is appropriately
+consensus-undermining, when in fact it is not. Thus, as we mentioned earlier, a
+more promising strategy would be to educate the public and policy makers about
+the complex relationships between scientific knowledge and public policy.</p>
+      <p>
+        Second, targeting dissent can also be used to promote special interest
+science. Those who target dissent because they are concerned about the role of
+private interests in manufacturing doubt, need to keep in mind that these interests
+can just as easily work to suppress dissent that is appropriately
+consensusundermining as they can work to create dissent that is not so. For instance, some
+are concerned that in the GMO case, companies such as Monsanto are heavily
+funding the research that supports the now dominant view that GMOs do not pose
+a significant threat to health. Such interests are equally capable of using their
+resources to manufacture consensus by suppressing or discrediting dissenting
+voices that could actually appropriately undermine the scientific consensus for
+instance, as they are to create doubt through epistemically inappropriate dissent.
+Criticisms of dissent may thus discourage the very sorts of arguments that are
+necessary to counter the influence of commercial interests. After all, the claims
+for which scientific consensus exists change over time and can come from all
+sides of the aisle
+        <xref ref-type="bibr" rid="ref33">(Kuehn 2004)</xref>
+        . A few decades ago, the claims that nicotine was
+not addictive or that smoking did not cause lung cancer were widely accepted by
+the scientific community. When dissenters attempted to challenge such consensus,
+tobacco companies seemed perfectly eager both to fund research that reinforced
+the presumed consensus of the time and suppressed dissenting voices by
+mounting serious attacks on the careers of scientists
+        <xref ref-type="bibr" rid="ref37">(Martin 1999)</xref>
+        . Targeting
+dissent as an obstacle to public policy, then, has the potential to strip away the
+resources needed precisely to guard against the influences of special interests.
+      </p>
+      <p>
+        Third, repudiation of dissent is likely to stifle legitimate dissenting voices,
+which will serve neither science nor public policy. That is, focus on dissent and
+its negative effects on public policy and public behavior might result in a “chilling
+effect” where dissent that is appropriately consensus-undermining is silenced.
+Scientists may be reluctant to voice dissenting views insofar as doing so may
+harm their reputations, limit their careers, or undermine prevailing theories or
+policies, which they care about deeply. For instance, Beatty shows how a panel
+of scientists for the U.S. National Academy of Sciences omitted their wildly
+different predictions about the genetic harms of radiation when presenting a risk
+assessment of radiation in 1956
+        <xref ref-type="bibr" rid="ref4">(Beatty 2006)</xref>
+        . They did not include the range of
+predictions in their final report precisely because they thought the differences
+would undermine confidence in their recommendations. Yet this range could
+have been very relevant to decisions policymakers had to make about what levels
+of exposure to radiation would be acceptable. Some evidence indicates that this
+potential “chilling effect” can now be seen in climate science research. There are
+genuine disagreements about how, for example, to best model cloud formation,
+water vapor feedback, and aerosols in General Circulation Models (GCMs), all of
+which have significant impacts on the magnitude of warming likely to occur
+        <xref ref-type="bibr" rid="ref19 ref26 ref56 ref71">(IPCC 2007; Weare 2000a, 2000b; Rind et al. 2009)</xref>
+        . Yet, some scientists are
+reluctant to make these disagreements public, for fear that they will be accused of
+being denialists, faulted for confusing the public and policymakers, censured for
+abating climate change deniers, or criticized for undermining needed public
+policy
+        <xref ref-type="bibr" rid="ref54">(Pidgeon and Fischoff 2011; Schiermeier 2010)</xref>
+        .
+      </p>
+      <p>Of course, targeting dissent as an obstacle to public policy can reinforce
+not just self-censorship, but the suppression of legitimate dissenting voices using
+strategies mentioned earlier, from censorship by peer-reviewers, editors and
+funding sources, to artificial creation of scientific consensus. Unfortunately, if
+criticisms of dissent result in the stifling of dissent that is appropriately
+consensus-undermining, dissenting voices that could have been crucial to helping
+the scientific community discover new truths might also be blocked out. If this
+happens, scientific progress is hindered. This is particularly relevant in the case of
+the biomedical sciences, where consensus in clinical practice is often difficult to
+challenge.</p>
+    </sec>
+    <sec id="sec-8">
+      <title>6. Conclusion</title>
+      <p>We have argued that targeting dissent as an obstacle to public policy is
+both misguided and dangerous. It is misguided because it fails to focus on the real
+problems at stake: understanding the nature and role of scientific consensus and
+dissent, as well as the relationship between scientific evidence and public policy.
+It is dangerous because it is likely to increase illegitimate instances of dissent,
+deprive us of resources to criticize special interest science, and stifle legitimate
+scientific dissent that is crucial to scientific progress and sound public policy.</p>
+      <p>Our intention has not been to defend “special interest science,” deny the
+value of scientific consensus, or dismiss the problematic consequences that
+dissent can cause in certain cases. On the contrary, it is precisely these concerns
+that lead us to our thesis. If our arguments are correct, the problem is not with
+dissent as such, even dissent that is not epistemically valuable, but with an
+incorrect understanding of the nature of consensus and dissent and their role in
+sound public policy making. Addressing the real target should be our aim.
+Moreover, this demonstrates that science studies scholars should direct their
+attention towards questions such as: What are the factors that make policy
+decisions rational? How much agreement must exist within a scientific
+community to help justify particular policies? When is dissent a threat to the
+scientific consensus? When is it appropriate for policymakers to ignore
+dissenting voices? Is there something particularly problematic about the sort of
+dissent that occurs in cases of special interest science that distinguishes it from
+dissenting views that are offered in good faith? We have not attempted to answer
+these questions here. Our claim, however, is that in the context of science
+relevant to public policy, concerns about manufactured dissent would be better
+addressed by an examination of these questions, rather than by focusing on
+dissent as a problematic activity.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Ackermann</surname>
+          </string-name>
+          , Robert.
+          <year>1986</year>
+          .
+          <article-title>"Consensus and Dissensus in Science."</article-title>
+          <source>PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association</source>
+          <year>1986</year>
+          (
+          <volume>2</volume>
+          ):
+          <fpage>99</fpage>
+          -
+          <lpage>105</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Arntzen</surname>
+            ,
+            <given-names>C. J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A.</given-names>
+            <surname>Coghlan</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>B.</given-names>
+            <surname>Johnson</surname>
+          </string-name>
+          , J. Peacock, and
+          <string-name>
+            <given-names>M.</given-names>
+            <surname>Rodemeyer</surname>
+          </string-name>
+          .
+          <year>2003</year>
+          .
+          <article-title>"GM crops: science, politics and communication</article-title>
+          .
+          <source>" Nature Reviews Genetics</source>
+          <volume>4</volume>
+          (
+          <issue>10</issue>
+          ):
+          <fpage>839</fpage>
+          -
+          <lpage>43</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Bateman</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          <year>2007</year>
+          .
+          <article-title>"Paying the price for AIDSs denialism</article-title>
+          .
+          <source>" Samj South African Medical Journal</source>
+          <volume>97</volume>
+          :
+          <fpage>912</fpage>
+          -
+          <lpage>4</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Beatty</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          <year>2006</year>
+          .
+          <article-title>"Masking disagreement among experts."</article-title>
+          <source>Episteme: A Journal of Social Epistemology</source>
+          <volume>3</volume>
+          (
+          <issue>1</issue>
+          ):
+          <fpage>52</fpage>
+          -
+          <lpage>67</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Beatty</surname>
+          </string-name>
+          , John, and Alfred Moore.
+          <year>2010</year>
+          .
+          <article-title>"Should We Aim for Consensus?" Episteme 7 (3</article-title>
+          ):
+          <fpage>198</fpage>
+          -
+          <lpage>214</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Bijker</surname>
+            ,
+            <given-names>Wiebe E.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Roland</surname>
+            <given-names>Bal</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>Ruud</given-names>
+            <surname>Hendriks</surname>
+          </string-name>
+          .
+          <year>2009</year>
+          .
+          <article-title>The paradox of scientific authority : the role of scientific advice in democracies</article-title>
+          . Cambridge, Mass.: MIT Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Brown</surname>
+            ,
+            <given-names>K. F.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J. S.</given-names>
+            <surname>Kroll</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M. J.</given-names>
+            <surname>Hudson</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M.</given-names>
+            <surname>Ramsay</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Green</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S. J.</given-names>
+            <surname>Long</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>C. A.</given-names>
+            <surname>Vincent</surname>
+          </string-name>
+          , G. Fraser, and
+          <string-name>
+            <given-names>N.</given-names>
+            <surname>Sevdalis</surname>
+          </string-name>
+          .
+          <year>2010</year>
+          .
+          <article-title>"Factors underlying parental decisions about combination childhood vaccinations including MMR: A systematic review</article-title>
+          .
+          <source>" Vaccine</source>
+          <volume>28</volume>
+          (
+          <issue>26</issue>
+          ):
+          <fpage>4235</fpage>
+          -
+          <lpage>48</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Collins</surname>
+            ,
+            <given-names>H. M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>and Robert</given-names>
+            <surname>Evans</surname>
+          </string-name>
+          .
+          <year>2007</year>
+          .
+          <article-title>"Rethinking expertise</article-title>
+          ." Chicago: University of Chicago Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>de Melo-Martín</surname>
+            ,
+            <given-names>I.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>Z.</given-names>
+            <surname>Meghani</surname>
+          </string-name>
+          .
+          <year>2008</year>
+          .
+          <article-title>"Beyond risk. A more realistic risk-benefit analysis of agricultural biotechnologies</article-title>
+          .
+          <source>" EMBO Rep</source>
+          <volume>9</volume>
+          (
+          <issue>4</issue>
+          ):
+          <fpage>302</fpage>
+          -
+          <lpage>6</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Diethelm</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>M.</given-names>
+            <surname>McKee</surname>
+          </string-name>
+          .
+          <year>2009</year>
+          .
+          <article-title>"Denialism: what is it and how should scientists respond?"</article-title>
+          <source>Eur J Public Health</source>
+          <volume>19</volume>
+          (
+          <issue>1</issue>
+          ):
+          <fpage>2</fpage>
+          -
+          <lpage>4</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Dietrich</surname>
+            , Michael, and
+            <given-names>Robert</given-names>
+          </string-name>
+          <string-name>
+            <surname>Skipper</surname>
+          </string-name>
+          .
+          <year>2007</year>
+          .
+          <article-title>"Manipulating Underdetermination in Scientific Controversy: The Case of the Molecular Clock."</article-title>
+          <source>Perspectives on Science</source>
+          <volume>15</volume>
+          (
+          <issue>3</issue>
+          ):
+          <fpage>295</fpage>
+          -
+          <lpage>326</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Duesberg</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>C.</given-names>
+            <surname>Koehnlein</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>D.</given-names>
+            <surname>Rasnick</surname>
+          </string-name>
+          .
+          <year>2003</year>
+          .
+          <article-title>"The chemical bases of the various AIDS epidemics: recreational drugs, anti-viral chemotherapy and malnutrition</article-title>
+          .
+          <source>" Journal of Biosciences</source>
+          <volume>28</volume>
+          (
+          <issue>4</issue>
+          ):
+          <fpage>383</fpage>
+          -
+          <lpage>412</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>Duesberg</surname>
+            ,
+            <given-names>P.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>D.</given-names>
+            <surname>Rasnick</surname>
+          </string-name>
+          .
+          <year>1998</year>
+          .
+          <article-title>"The AIDS dilemma: drug diseases blamed on a passenger virus</article-title>
+          .
+          <source>" Genetica</source>
+          <volume>104</volume>
+          (
+          <issue>2</issue>
+          ):
+          <fpage>85</fpage>
+          -
+          <lpage>132</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Editorial</surname>
+          </string-name>
+          .
+          <year>2007</year>
+          .
+          <article-title>"Another inconvenient truth. In Europe, no one apparently wants to listen if you have good news about genetically modified organisms (GMOs)</article-title>
+          .
+          <source>" Nat Biotechnol</source>
+          <volume>25</volume>
+          (
+          <issue>12</issue>
+          ):
+          <fpage>1330</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>Elliott</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          <year>2011</year>
+          .
+          <article-title>Is a Little Pollution Good for You? Incorporating Societal Values in Environmental Research</article-title>
+          . New York, NY: Oxford University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <surname>Elster</surname>
+          </string-name>
+          , Jon.
+          <year>1986</year>
+          .
+          <article-title>"The Market and the Forum: Three Varieties of Political Theory." In Foundations of Social Choice Theory</article-title>
+          , ed.
+          <source>J. Elster and A. Hylland</source>
+          . Cambridge: Cambridge University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <surname>Enstrom</surname>
+            ,
+            <given-names>J. E.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>G. C.</given-names>
+            <surname>Kabat</surname>
+          </string-name>
+          .
+          <year>2003</year>
+          .
+          <article-title>"Environmental tobacco smoke and tobacco related mortality in a prospective study of Californians,</article-title>
+          <year>1960</year>
+          -
+          <fpage>98</fpage>
+          .
+          <article-title>"</article-title>
+          <source>British Medical Journal</source>
+          <volume>326</volume>
+          (
+          <issue>7398</issue>
+          ):
+          <fpage>1057</fpage>
+          -
+          <lpage>67</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Frank</surname>
+            ,
+            <given-names>L.</given-names>
+          </string-name>
+          <year>2004</year>
+          .
+          <article-title>"Scientific conduct</article-title>
+          .
+          <source>Charges don't stick to The Skeptical Environmentalist." Science</source>
+          <volume>303</volume>
+          (
+          <issue>5654</issue>
+          ):
+          <fpage>28</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Geier</surname>
+            ,
+            <given-names>David A.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Mark</surname>
+            <given-names>R.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Geier</surname>
+          </string-name>
+          .
+          <year>2006</year>
+          .
+          <article-title>"A meta-analysis epidemiological assessment of neurodevelopmental disorders following vaccines administered from 1994 through 2000 in the United States."</article-title>
+          <source>Neuro Endocrinol Lett</source>
+          <volume>27</volume>
+          (
+          <issue>4</issue>
+          ):
+          <fpage>401</fpage>
+          -
+          <lpage>13</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <surname>---</surname>
+          </string-name>
+          .
+          <year>2007</year>
+          .
+          <article-title>"A prospective study of thimerosal-containing Rho(D)-immune globulin administration as a risk factor for autistic disorders</article-title>
+          .
+          <source>" J Matern Fetal Neonatal Med</source>
+          <volume>20</volume>
+          (
+          <issue>5</issue>
+          ):
+          <fpage>385</fpage>
+          -
+          <lpage>90</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <string-name>
+            <surname>Gilbert</surname>
+          </string-name>
+          , Margaret.
+          <year>1987</year>
+          .
+          <article-title>"</article-title>
+          <source>Modelling Collective Belief." Synthese</source>
+          <volume>73</volume>
+          (
+          <issue>1</issue>
+          ):
+          <fpage>185</fpage>
+          -
+          <lpage>204</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <string-name>
+            <surname>Glanz</surname>
+            ,
+            <given-names>J. M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>D. L.</given-names>
+            <surname>McClure</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>D. J.</given-names>
+            <surname>Magid</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M. F.</given-names>
+            <surname>Daley</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>E. K.</given-names>
+            <surname>France</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>D. A.</given-names>
+            <surname>Salmon</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>S. J.</given-names>
+            <surname>Hambidge</surname>
+          </string-name>
+          .
+          <year>2009</year>
+          .
+          <article-title>"Parental Refusal of Pertussis Vaccination Is Associated With an Increased Risk of Pertussis Infection in Children." Pediatrics 123 (6</article-title>
+          ):
+          <fpage>1446</fpage>
+          -
+          <lpage>51</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <surname>Gutmann</surname>
+          </string-name>
+          , Amy.
+          <year>2004</year>
+          . Why deliberative democracy? Princeton, N.J.: Princeton University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <surname>Hodgson</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          <year>2008</year>
+          .
+          <article-title>"Scientists cry foul as Europe plays politics with GM crops."</article-title>
+          <source>Nature Biotechnology</source>
+          <volume>26</volume>
+          (
+          <issue>2</issue>
+          ):
+          <fpage>138</fpage>
+          -
+          <lpage>40</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <string-name>
+            <surname>Horton</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          <year>2010</year>
+          .
+          <article-title>"Science will never be the same again</article-title>
+          .
+          <source>" Lancet</source>
+          <volume>376</volume>
+          (
+          <issue>9736</issue>
+          ):
+          <fpage>143</fpage>
+          -
+          <lpage>4</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <string-name>
+            <surname>IPCC.</surname>
+          </string-name>
+          <year>2007</year>
+          .
+          <source>Climate Change 2007: Synthesis Report: Synthesis Report</source>
+          . Available at http://www.ipcc.ch/pdf/assessment-report/ar4/syr/ar4_syr.pdf.
+          <source>Geneva: Intergovernmental Panel on Climate Change.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <string-name>
+            <surname>Jansen</surname>
+            ,
+            <given-names>V. A. A.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>N.</given-names>
+            <surname>Stollenwerk</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>H. J.</given-names>
+            <surname>Jensen</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M. E.</given-names>
+            <surname>Ramsay</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>W. J.</given-names>
+            <surname>Edmunds</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>C. J.</given-names>
+            <surname>Rhodes</surname>
+          </string-name>
+          .
+          <year>2003</year>
+          .
+          <article-title>"Measles outbreaks in a population with declining vaccine uptake</article-title>
+          .
+          <source>" Science</source>
+          <volume>301</volume>
+          (
+          <issue>5634</issue>
+          ):
+          <fpage>804</fpage>
+          -.
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <string-name>
+            <surname>Jasanoff</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          <year>2010</year>
+          .
+          <article-title>"Science and society</article-title>
+          .
+          <source>Testing time for climate science." Science</source>
+          <volume>328</volume>
+          (
+          <issue>5979</issue>
+          ):
+          <fpage>695</fpage>
+          -
+          <lpage>6</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <string-name>
+            <surname>Jasanoff</surname>
+          </string-name>
+          , Sheila.
+          <year>2004</year>
+          .
+          <article-title>States of knowledge : the co-production of science and social order</article-title>
+          . London ; New York: Routledge.
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          <string-name>
+            <surname>Kidd</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>and I. M.</given-names>
+            <surname>Modlin</surname>
+          </string-name>
+          .
+          <year>1998</year>
+          .
+          <article-title>"A century of Helicobacter pylori: paradigms lostparadigms regained</article-title>
+          .
+          <source>" Digestion</source>
+          <volume>59</volume>
+          (
+          <issue>1</issue>
+          ):
+          <fpage>1</fpage>
+          -
+          <lpage>15</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          <string-name>
+            <surname>Kirby</surname>
+          </string-name>
+          , David.
+          <year>2005</year>
+          .
+          <article-title>Evidence of harm : mercury in vaccines and the autism epidemic : a medical controversy</article-title>
+          . 1st ed. New York: St. Martin's Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          <string-name>
+            <surname>Kitcher</surname>
+          </string-name>
+          , Philip.
+          <year>2011</year>
+          .
+          <article-title>Science in a democratic society</article-title>
+          . Amherst, N.Y.: Prometheus Books.
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          <string-name>
+            <surname>Kuehn</surname>
+            ,
+            <given-names>R. R.</given-names>
+          </string-name>
+          <year>2004</year>
+          .
+          <article-title>"Suppression of environmental science."</article-title>
+          <source>Am J Law Med</source>
+          <volume>30</volume>
+          (
+          <issue>2- 3</issue>
+          ):
+          <fpage>333</fpage>
+          -
+          <lpage>69</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          <string-name>
+            <surname>Lacey</surname>
+            ,
+            <given-names>H.</given-names>
+          </string-name>
+          <year>2005</year>
+          .
+          <article-title>Values in Science. Lanhm, MD: Rowman and Littlefield</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          <string-name>
+            <surname>Longino</surname>
+            ,
+            <given-names>Helen E.</given-names>
+          </string-name>
+          <year>1990</year>
+          .
+          <article-title>Science as social knowledge : values and objectivity in scientific inquiry</article-title>
+          . Princeton, N.J.: Princeton University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          <string-name>
+            <surname>---</surname>
+          </string-name>
+          .
+          <year>2002</year>
+          .
+          <article-title>The fate of knowledge</article-title>
+          . Princeton, N.J.: Princeton University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          <string-name>
+            <surname>Martin</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          <year>1999</year>
+          .
+          <article-title>"Suppression of Dissent in Science." In Research in Social Problems</article-title>
+          and Public Policy, ed. W. R. Freudenburg and
+          <string-name>
+            <given-names>T. I. K.</given-names>
+            <surname>Youn</surname>
+          </string-name>
+          . Stamford, CT: JAI Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          <string-name>
+            <surname>Martin</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          <year>2004</year>
+          .
+          <article-title>"Dissent and heresy in medicine: models, methods, and strategies</article-title>
+          .
+          <source>" Social Science &amp; Medicine</source>
+          <volume>58</volume>
+          (
+          <issue>4</issue>
+          ):
+          <fpage>713</fpage>
+          -
+          <lpage>25</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          <string-name>
+            <surname>McGarity</surname>
+            ,
+            <given-names>Thomas O.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>and Wendy</given-names>
+            <surname>Wagner</surname>
+          </string-name>
+          .
+          <year>2008</year>
+          .
+          <article-title>Bending science : how special interests corrupt public health research</article-title>
+          . Cambridge, Mass.: Harvard University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          <string-name>
+            <surname>McKee</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>and P.</given-names>
+            <surname>Diethelm</surname>
+          </string-name>
+          .
+          <year>2010</year>
+          .
+          <article-title>"How the growth of denialism undermines public health</article-title>
+          .
+          <source>" BMJ</source>
+          <volume>341</volume>
+          :
+          <year>c6950</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          <string-name>
+            <surname>Michaels</surname>
+          </string-name>
+          , David.
+          <year>2008</year>
+          .
+          <article-title>Doubt is their product : how industry's assault on science threatens your health</article-title>
+          . Oxford ; New York: Oxford University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          <string-name>
+            <surname>Michaels</surname>
+            ,
+            <given-names>Patrick J.</given-names>
+          </string-name>
+          <year>2005</year>
+          .
+          <article-title>Shattered consensus : the true state of global warming</article-title>
+          . Lanham, Md.: Rowman &amp; Littlefield.
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          <string-name>
+            <surname>Mill</surname>
+          </string-name>
+          , John Stuart.
+          <year>1978</year>
+          .
+          <article-title>On liberty</article-title>
+          . Edited by E. Rapaport. Indianapolis: Hackett Pub. Co.
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          <string-name>
+            <surname>Miller</surname>
+            ,
+            <given-names>H. I.</given-names>
+          </string-name>
+          <year>2003</year>
+          .
+          <article-title>"First salvo in transatlantic food fight is far from last word</article-title>
+          .
+          <source>" Nature Biotechnology</source>
+          <volume>21</volume>
+          (
+          <issue>7</issue>
+          ):
+          <fpage>737</fpage>
+          -
+          <lpage>8</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          <string-name>
+            <surname>Moffett</surname>
+          </string-name>
+          , Marc.
+          <year>2007</year>
+          .
+          <article-title>"Reasonable Disagreement</article-title>
+          and Rational Group Inquiry.
+          <source>" Episteme</source>
+          <volume>4</volume>
+          (
+          <issue>3</issue>
+          ):
+          <fpage>352</fpage>
+          -
+          <lpage>67</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          <string-name>
+            <surname>Mooney</surname>
+          </string-name>
+          , Chris.
+          <year>2005</year>
+          .
+          <article-title>The Republican war on science</article-title>
+          . New York: Basic Books.
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          <string-name>
+            <surname>NOAA.</surname>
+          </string-name>
+          <year>2011</year>
+          .
+          <article-title>"Inspector General's Review of Stolen Emails Confirms No Evidence of Wrong-Doing by NOAA Climate Scientists</article-title>
+          . Available at http://www.noaanews.noaa.gov/stories2011/20110224_climate.
+          <source>html. February</source>
+          <volume>25</volume>
+          ,."
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          <string-name>
+            <surname>Olmsted</surname>
+            , Dan, and
+            <given-names>Mark</given-names>
+          </string-name>
+          <string-name>
+            <surname>Blaxill</surname>
+          </string-name>
+          .
+          <year>2010</year>
+          .
+          <article-title>The age of autism : mercury, medicine, and a man-made epidemic</article-title>
+          . 1st ed. New York: Thomas Dunne Books/St. Martin's Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation>
+          <string-name>
+            <surname>Omer</surname>
+          </string-name>
+          , Saad B.,
+          <string-name>
+            <surname>Daniel</surname>
+            <given-names>A</given-names>
+          </string-name>
+          . Salmon, Walter A.
+          <string-name>
+            <surname>Orenstein</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          <article-title>Patricia deHart, and</article-title>
+          <string-name>
+            <given-names>Neal</given-names>
+            <surname>Halsey</surname>
+          </string-name>
+          .
+          <year>2009</year>
+          .
+          <article-title>"Vaccine refusal, mandatory immunization, and the risks of vaccine-preventable diseases."</article-title>
+          <source>N Engl J Med</source>
+          <volume>360</volume>
+          (
+          <issue>19</issue>
+          ):
+          <fpage>1981</fpage>
+          -
+          <lpage>8</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <mixed-citation>
+          <string-name>
+            <surname>Oppenheimer</surname>
+            ,
+            <given-names>M.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>B. C. O</given-names>
+            <surname>'Neill</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M.</given-names>
+            <surname>Webster</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>S.</given-names>
+            <surname>Agrawala</surname>
+          </string-name>
+          .
+          <year>2007</year>
+          .
+          <article-title>"Climate change</article-title>
+          .
+          <source>The limits of consensus." Science</source>
+          <volume>317</volume>
+          (
+          <issue>5844</issue>
+          ):
+          <fpage>1505</fpage>
+          -
+          <lpage>6</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref51">
+        <mixed-citation>
+          <string-name>
+            <surname>Oreskes</surname>
+            ,
+            <given-names>N.</given-names>
+          </string-name>
+          <year>2004</year>
+          .
+          <article-title>"Beyond the ivory tower</article-title>
+          .
+          <source>The scientific consensus on climate change." Science</source>
+          <volume>306</volume>
+          (
+          <issue>5702</issue>
+          ):
+          <fpage>1686</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref52">
+        <mixed-citation>
+          <string-name>
+            <surname>Oreskes</surname>
+          </string-name>
+          , Naomi, and
+          <string-name>
+            <surname>Erik M Conway</surname>
+          </string-name>
+          .
+          <year>2010a</year>
+          .
+          <article-title>"Defeating the merchants of doubt</article-title>
+          .
+          <source>" Nature</source>
+          <volume>465</volume>
+          (
+          <issue>7299</issue>
+          ):
+          <fpage>686</fpage>
+          -
+          <lpage>7</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref53">
+        <mixed-citation>
+          <string-name>
+            <surname>Oreskes</surname>
+          </string-name>
+          , Naomi, and
+          <string-name>
+            <surname>Erik</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Conway</surname>
+          </string-name>
+          . 2010b.
+          <article-title>Merchants of doubt : how a handful of scientists obscured the truth on issues from tobacco smoke to global warming</article-title>
+          . New York: Bloomsbury Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref54">
+        <mixed-citation>
+          <string-name>
+            <surname>Pidgeon</surname>
+            ,
+            <given-names>N</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>B</given-names>
+            <surname>Fischoff</surname>
+          </string-name>
+          .
+          <year>2011</year>
+          .
+          <article-title>"The role of social and decisions sciences in communicating uncertain climate risks</article-title>
+          .
+          <source>" Nature Climate Change</source>
+          <volume>1</volume>
+          :
+          <fpage>35</fpage>
+          -
+          <lpage>41</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref55">
+        <mixed-citation>
+          <string-name>
+            <surname>Poland</surname>
+            ,
+            <given-names>Gregory A.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>Ray</given-names>
+            <surname>Spier</surname>
+          </string-name>
+          .
+          <year>2010</year>
+          .
+          <article-title>"Fear, misinformation, and innumerates: how the Wakefield paper, the press, and advocacy groups damaged the public health</article-title>
+          .
+          <source>" Vaccine</source>
+          <volume>28</volume>
+          (
+          <issue>12</issue>
+          ):
+          <fpage>2361</fpage>
+          -
+          <lpage>2</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref56">
+        <mixed-citation>
+          <string-name>
+            <surname>Rind</surname>
+            ,
+            <given-names>D</given-names>
+          </string-name>
+          , RA Kahn,
+          <string-name>
+            <surname>M Chin</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>SE</given-names>
+            <surname>Schwartz</surname>
+          </string-name>
+          , LA Remer,
+          <string-name>
+            <given-names>G</given-names>
+            <surname>Feingold</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>H</given-names>
+            <surname>Yu</surname>
+          </string-name>
+          , PK Quinn, and
+          <string-name>
+            <given-names>R</given-names>
+            <surname>Halthore</surname>
+          </string-name>
+          .
+          <year>2009</year>
+          .
+          <article-title>"The Way Forward." In Atmospheric Aerosol Properties</article-title>
+          and Climate Impacts, ed. M.
+          <string-name>
+            <surname>Chin</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Kahn</surname>
+            and
+            <given-names>S.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Schwartz</surname>
+            . Washington, D.C.: National Aeronautics and
+            <given-names>Space</given-names>
+          </string-name>
+          <string-name>
+            <surname>Administration</surname>
+          </string-name>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref57">
+        <mixed-citation>
+          <string-name>
+            <surname>Rosen</surname>
+          </string-name>
+          , Gideon.
+          <year>2001</year>
+          .
+          <article-title>"Nominalism, Naturalism</article-title>
+          ,
+          <source>Epistemic Relativism." Philosophical Perspectives</source>
+          <volume>15</volume>
+          :
+          <fpage>69</fpage>
+          -
+          <lpage>91</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref58">
+        <mixed-citation>
+          <string-name>
+            <surname>Rosi-Marshall</surname>
+            ,
+            <given-names>E. J.</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J. L.</given-names>
+            <surname>Tank</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>T. V.</given-names>
+            <surname>Royer</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M. R.</given-names>
+            <surname>Whiles</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M.</given-names>
+            <surname>Evans-White</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>C.</given-names>
+            <surname>Chambers</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>N. A.</given-names>
+            <surname>Griffiths</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Pokelsek</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>M. L.</given-names>
+            <surname>Stephen</surname>
+          </string-name>
+          .
+          <year>2007</year>
+          .
+          <article-title>"Toxins in transgenic crop byproducts may affect headwater stream ecosystems</article-title>
+          .
+          <source>" Proc Natl Acad Sci U S A</source>
+          <volume>104</volume>
+          (
+          <issue>41</issue>
+          ):
+          <fpage>16204</fpage>
+          -
+          <lpage>8</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref59">
+        <mixed-citation>
+          <string-name>
+            <surname>Saleh-Lakha</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>B. R.</given-names>
+            <surname>Glick</surname>
+          </string-name>
+          .
+          <year>2005</year>
+          .
+          <article-title>"Is the battle over genetically modified foods finally over?"</article-title>
+          <source>Biotechnology Advances</source>
+          <volume>23</volume>
+          (
+          <issue>2</issue>
+          ):
+          <fpage>93</fpage>
+          -
+          <lpage>6</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref60">
+        <mixed-citation>
+          <string-name>
+            <surname>Schiermeier</surname>
+            ,
+            <given-names>Q.</given-names>
+          </string-name>
+          <year>2009</year>
+          .
+          <article-title>"Storm clouds gather over leaked climate e-mails."</article-title>
+          <source>Nature</source>
+          <volume>462</volume>
+          (
+          <issue>7272</issue>
+          ):
+          <fpage>397</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref61">
+        <mixed-citation>
+          <string-name>
+            <surname>---</surname>
+          </string-name>
+          .
+          <year>2010</year>
+          .
+          <article-title>"The real holes in climate science</article-title>
+          .
+          <source>" Nature</source>
+          <volume>463</volume>
+          (
+          <issue>7279</issue>
+          ):
+          <fpage>284</fpage>
+          -
+          <lpage>7</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref62">
+        <mixed-citation>
+          <string-name>
+            <surname>Selinger</surname>
+            , Evan, and
+            <given-names>Robert P.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Crease</surname>
+          </string-name>
+          .
+          <year>2006</year>
+          .
+          <article-title>The philosophy of expertise</article-title>
+          . New York: Columbia University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref63">
+        <mixed-citation>
+          <string-name>
+            <surname>Shrader-Frechette</surname>
+            ,
+            <given-names>K.</given-names>
+          </string-name>
+          <year>2010</year>
+          .
+          <article-title>"Conceptual analysis and special-interest science: toxicology and the case of Edward Calabrese."</article-title>
+          <source>Synthese</source>
+          :
+          <fpage>449</fpage>
+          -
+          <lpage>69</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref64">
+        <mixed-citation>
+          <string-name>
+            <surname>Shwed</surname>
+            ,
+            <given-names>U.</given-names>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>P. S.</given-names>
+            <surname>Bearman</surname>
+          </string-name>
+          .
+          <year>2010</year>
+          .
+          <article-title>"The Temporal Structure of Scientific Consensus Formation</article-title>
+          .
+          <article-title>"</article-title>
+          <source>American Sociological Review</source>
+          <volume>75</volume>
+          (
+          <issue>6</issue>
+          ):
+          <fpage>817</fpage>
+          -
+          <lpage>40</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref65">
+        <mixed-citation>
+          <string-name>
+            <surname>Solomon</surname>
+          </string-name>
+          , Miriam.
+          <year>2001</year>
+          .
+          <article-title>Social empiricism</article-title>
+          . Cambridge, Mass.: MIT Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref66">
+        <mixed-citation>
+          <string-name>
+            <surname>Specter</surname>
+          </string-name>
+          , Michael.
+          <year>2007</year>
+          .
+          <article-title>"The denialists: the dangerous attacks on the consensus about H.I.V. and</article-title>
+          <string-name>
+            <surname>AIDS.</surname>
+          </string-name>
+          " New Yorker:
+          <fpage>32</fpage>
+          -
+          <lpage>8</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref67">
+        <mixed-citation>
+          <string-name>
+            <surname>Tucker</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          <year>2003</year>
+          .
+          <article-title>"The epistemic significance of consensus." Inquiry-an</article-title>
+          <source>Interdisciplinary Journal of Philosophy</source>
+          <volume>46</volume>
+          (
+          <issue>4</issue>
+          ):
+          <fpage>501</fpage>
+          -
+          <lpage>21</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref68">
+        <mixed-citation>
+          <string-name>
+            <surname>Vastag</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          <year>2001</year>
+          .
+          <article-title>"Congressional autism hearings continue - No evidence MMR vaccine causes disorder."</article-title>
+          <source>Jama-Journal of the American Medical Association</source>
+          <volume>285</volume>
+          (
+          <issue>20</issue>
+          ):
+          <fpage>2567</fpage>
+          -
+          <lpage>9</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref69">
+        <mixed-citation>
+          <string-name>
+            <surname>Wakefield</surname>
+            ,
+            <given-names>A</given-names>
+          </string-name>
+          . J.,
+          <string-name>
+            <given-names>S. H.</given-names>
+            <surname>Murch</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A.</given-names>
+            <surname>Anthony</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Linnell</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>D. M.</given-names>
+            <surname>Casson</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M.</given-names>
+            <surname>Malik</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M.</given-names>
+            <surname>Berelowitz</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A. P.</given-names>
+            <surname>Dhillon</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>M. A.</given-names>
+            <surname>Thomson</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>P.</given-names>
+            <surname>Harvey</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>A.</given-names>
+            <surname>Valentine</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>S. E.</given-names>
+            <surname>Davies</surname>
+          </string-name>
+          , and
+          <string-name>
+            <given-names>J. A.</given-names>
+            <surname>Walker-Smith</surname>
+          </string-name>
+          .
+          <year>1998</year>
+          .
+          <article-title>"Ileal-lymphoid-nodular hyperplasia, nonspecific colitis, and pervasive developmental disorder in children (Retracted article</article-title>
+          .
+          <source>See</source>
+          vol
+          <volume>375</volume>
+          , pg 445,
+          <year>2010</year>
+          ).
+          <source>" Lancet</source>
+          <volume>351</volume>
+          (
+          <issue>9103</issue>
+          ):
+          <fpage>637</fpage>
+          -
+          <lpage>41</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref70">
+        <mixed-citation>
+          <string-name>
+            <surname>Waltz</surname>
+            ,
+            <given-names>E.</given-names>
+          </string-name>
+          <year>2009</year>
+          .
+          <article-title>"GM crops:</article-title>
+          <source>Battlefield." Nature</source>
+          <volume>461</volume>
+          (
+          <issue>7260</issue>
+          ):
+          <fpage>27</fpage>
+          -
+          <lpage>32</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref71">
+        <mixed-citation>
+          <string-name>
+            <surname>Weare</surname>
+          </string-name>
+          , BC.
+          <year>2000a</year>
+          .
+          <article-title>"Insights into the importance of cloud vertical structure in climate</article-title>
+          ." Geophysical Research Letters:
+          <fpage>907</fpage>
+          -
+          <lpage>10</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref72">
+        <mixed-citation>
+          <string-name>
+            <surname>---</surname>
+          </string-name>
+          .
+          <year>2000b</year>
+          .
+          <article-title>"Near-global observations of low clouds</article-title>
+          .
+          <source>" Journal of Climate</source>
+          :
+          <fpage>1255</fpage>
+          -
+          <lpage>68</lpage>
+          .
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
