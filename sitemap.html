@@ -1,0 +1,66 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+
+<head>
+  <meta charset="utf-8">
+  <title>MSU Article Summarization - HTML Sitemap</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/main.css">
+
+  <meta name="theme-color" content="#fafafa">
+</head>
+<body>
+
+<!-- Add your site or application content here -->
+<section aria-labelledby="sectionHeading" typeof="CollectionPage" resource="#page">
+<header role="banner" aria-label="site header including title and navigation">
+<h1 class="mainHeading" id="sectionHeading"><span>MSU Article Summarization - Sitemap</span>
+<nav class="controls" role="navigation"><a href="index.html" title="home">home</a> <a href="about.html" title="about">about</a> <a href="sitemap.html" title="sitemap">sitemap</a></nav>
+</h1>
+</header>
+<main>
+</main>
+<aside>
+<!--Site Metadata : Date, Author, DOI/URL -->
+</aside>
+<footer>
+</footer>
+</section>
+
+<script>
+const RSS_URL = `https://cors-anywhere.herokuapp.com/https://raw.githubusercontent.com/msulibrary/msu-article-summarization/main/sitemap.xml`;
+
+fetch(RSS_URL)
+  .then(response => response.text())
+  .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+  .then(data => {
+    console.log(data);
+    const items = data.querySelectorAll("item");
+    let html = ``;
+    html += `<ul>`;
+    items.forEach(el => {
+      html += `
+        <li>
+        <a href="${el.querySelector("link").innerHTML}" target="_blank" rel="noopener">${el.querySelector("title").innerHTML}</a>
+        </li>
+      `;
+    });
+    html += `</ul>`;
+    let baseElement = document.querySelector("main");
+    baseElement.insertAdjacentHTML("beforeend", html);
+  });
+</script>
+
+</body>
+</html>
