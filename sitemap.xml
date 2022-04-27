@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Sitemap - Article Summarization, Snapshot Articles</title>
+<link>https://www.add-domain.edu/</link>
+<description>Sitemap for Article Summarization website</description>
+<atom:link href="https://www.add-domain.edu/sitemap.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 14 May 2021 21:41:14 +0000</lastBuildDate>
+<item>
+  <title>Home</title>
+  <description>Home page for Article Summarization website</description>
+  <link>https://www.add-domain.edu/index.html</link>
+  <guid>https://www.add-domain.edu/index.html</guid>
+  <priority>1.0</priority>
+  <pubDate>Wed, 27 April 2022 21:41:14 +0000</pubDate>
+  <changefreq>monthly</changefreq>
+</item>
+<item>
+  <title>About</title>
+  <description>About page for Article Summarization website</description>
+  <link>https://www.add-domain.edu/about.html</link>
+  <guid>https://www.add-domain.edu/about.html</guid>
+  <priority>1.0</priority>
+  <pubDate>Wed, 27 April 2022 21:41:14 +0000</pubDate>
+  <changefreq>monthly</changefreq>
+</item>
+<item>
+  <title>Article Template - Humanities</title>
+  <description>Snapshot article template for humanities article</description>
+  <link>https://www.add-domain.edu/template-humanities.html</link>
+  <guid>https://www.add-domain.edu/template-humanities.html</guid>
+  <priority>1.0</priority>
+  <pubDate>Wed, 27 April 2022 21:41:14 +0000</pubDate>
+  <changefreq>monthly</changefreq>
+</item>
+<item>
+  <title>Article Template - STEM</title>
+  <description>Snapshot article template for STEM article</description>
+  <link>https://www.add-domain.edu/template-STEM.html</link>
+  <guid>https://www.add-domain.edu/template-STEM.html</guid>
+  <priority>1.0</priority>
+  <pubDate>Wed, 27 April 2022 21:41:14 +0000</pubDate>
+  <changefreq>monthly</changefreq>
+</item>
+</channel>
+</rss>
